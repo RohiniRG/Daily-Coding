@@ -51,3 +51,26 @@ Constraints: <br />
 1 <= m <= 104
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day2(Modular_multiplicative_inverse).py)
+
+***
+## Day 3
+### Problem Statement: First Repeating Element
+Given an array of integers, find the first repeating element in it. 
+We need to find the element that occurs more than once and whose index of first occurrence is smallest. <br />
+https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
+
+**Examples:** <br />
+Input:  arr[] = {10, 5, 3, 4, 3, 5, 6} <br />
+Output: 5 [5 is the first element that repeats] 
+
+Input:  arr[] = {6, 10, 5, 4, 9, 120, 4, 6, 10} <br />
+Output: 6 [6 is the first element that repeats]
+
+Expected Time Complexity: O(NlogN) <br />
+Expected Auxilliary Space: O(N) <br />
+
+Constraints:<br />
+1 <= N <= 106 <br />
+0 <= Ai<= 106
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day3(Repeating_element).py)
