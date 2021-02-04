@@ -74,3 +74,31 @@ Constraints:<br />
 0 <= Ai<= 106
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day3(Repeating_element).py)
+
+***
+## Day 4
+### Problem Statement: Rearrange an array with O(1) extra space
+Given an array arr[] of size n where every element is in range from 0 to n-1. 
+Rearrange the given array so that arr[i] becomes arr[arr[i]].
+This should be done with O(1) extra space. <br />
+https://www.geeksforgeeks.org/rearrange-given-array-place/
+
+**Examples:** <br />
+Input: <br />
+N = 2 <br />
+arr[] = {1,0} <br />
+Output: 0 1 <br />
+
+Input: <br />
+N = 5 <br />
+arr[] = {4,0,2,1,3} <br />
+Output: 3 4 2 0 1 <br />
+
+Expected Time Complexity: O(N) <br />
+Expected Auxiliary Space: O(1) <br />
+ 
+Constraints: <br />
+1 <= N <= 107 <br />
+0 <= Arr[i] < N
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day4(O(1)_extra_sp).py)
