@@ -42,4 +42,4 @@ for i in range(len(arr)):
 for j in range(len(arr)):
     arr[j] = arr[j]//len(arr)
 
-print("Resultant liat: ", arr)
+print("Resultant list: ", arr)
