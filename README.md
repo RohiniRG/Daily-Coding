@@ -132,3 +132,32 @@ Constraints: <br />
 0 <= Ai <= 108
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day5(Trapping_water).py)
+
+***
+## Day 6
+### Problem Statement: Merge with O(1) extra space
+We are given two sorted arrays. 
+We need to merge these two arrays such that the initial numbers (after complete sorting) 
+are in the first array and the remaining numbers are in the second array.
+Extra space allowed in O(1). <br />
+https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
+
+**Examples:** <br />
+Input: ar1[] = {10}; <br />
+       ar2[] = {2, 3};<br />
+Output: ar1[] = {2} <br />
+        ar2[] = {3, 10} <br />
+
+Input: ar1[] = {1, 5, 9, 10, 15, 20}; <br />
+       ar2[] = {2, 3, 8, 13}; <br />
+Output: ar1[] = {1, 2, 3, 5, 8, 9} <br />
+        ar2[] = {10, 13, 15, 20} <br />
+        
+Expected Time Complexity:  O((n+m) log(n+m)) <br />
+Expected Auxilliary Space: O(1)
+ 
+Constraints:<br />
+1 <= X, Y <= 5*104 <br />
+0 <= arr1i, arr2i <= 109 
+
+**Solution:** [here]
