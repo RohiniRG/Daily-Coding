@@ -19,7 +19,7 @@ Output : 4 9 25 49 <br />
 Expected Time Complexity : O(N1/2 * N1/4) <br />
 Expected Auxilliary Space :  O(1) <br />
 
-Constraints : 1 <= N <= 109
+Constraints : 1 <= N <= 10<sup>9</sup>
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day1(3_divisors).py) 
 
@@ -47,8 +47,8 @@ Expected Time Complexity : O(m) <br />
 Expected Auxilliary Space : O(1) <br />
 
 Constraints: <br />
-1 <= a <= 104 <br />
-1 <= m <= 104
+1 <= a <= 10<sup>4</sup> <br />
+1 <= m <= 10<sup>4</sup>
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day2(Modular_multiplicative_inverse).py)
 
@@ -70,8 +70,8 @@ Expected Time Complexity: O(NlogN) <br />
 Expected Auxilliary Space: O(N) <br />
 
 Constraints:<br />
-1 <= N <= 106 <br />
-0 <= Ai<= 106
+1 <= N <= 10<sup>6</sup> <br />
+0 <= Ai<= 10<sup>6</sup>
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day3(Repeating_element).py)
 
@@ -103,7 +103,7 @@ Expected Time Complexity: O(N) <br />
 Expected Auxiliary Space: O(1) <br />
  
 Constraints: <br />
-1 <= N <= 107 <br />
+1 <= N <= 10<sup>7</sup> <br />
 0 <= Arr[i] < N
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day4(O(1)_extra_sp).py)
@@ -128,8 +128,8 @@ Expected Time Complexity: O(N) <br />
 Expected Auxiliary Space: O(N)
 
 Constraints: <br />
-3 <= N <= 107 <br />
-0 <= Ai <= 108
+3 <= N <= 10<sup>7</sup> <br />
+0 <= Ai <= 10<sup>8</sup>
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day5(Trapping_water).py)
 
@@ -157,7 +157,38 @@ Expected Time Complexity:  O((n+m) log(n+m)) <br />
 Expected Auxilliary Space: O(1)
  
 Constraints:<br />
-1 <= X, Y <= 5*104 <br />
-0 <= arr1i, arr2i <= 109 
+1 <= X, Y <= 5*10<sup>4</sup> <br />
+0 <= arr1i, arr2i <= 10<sup>9</sup> 
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day6(Merging_in_O(1)).py)
+
+***
+## Day 7
+### Problem Statement: Search an element in sorted and rotated array
+An element in a sorted array can be found in O(log n) time via binary search. 
+But suppose we rotate an ascending order sorted array at some pivot unknown to you beforehand. 
+So for instance, 1 2 3 4 5 might become 3 4 5 1 2. 
+Devise a way to find an element in the rotated array in O(log n) time.<br />
+
+**Examples:** <br />
+Input  : arr[] = {5, 6, 7, 8, 9, 10, 1, 2, 3}; <br />
+         key = 3 <br />
+Output : Found at index 8
+
+Input  : arr[] = {5, 6, 7, 8, 9, 10, 1, 2, 3}; <br />
+         key = 30<br />
+Output : Not found
+
+Input : arr[] = {30, 40, 50, 10, 20} <br />
+        key = 10   <br />
+Output : Found at index 3
+
+Expected Time Complexity: O(log N). <br />
+Expected Auxiliary Space: O(1). 
+
+Constraints:<br />
+1 ≤ N ≤ 10<sup>7</sup> <br />
+0 ≤ Ai ≤ 10<sup>8</sup> <br />
+1 ≤ K ≤ 10<sup>8</sup>
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day7(Search_in_sort_rotated).py)
