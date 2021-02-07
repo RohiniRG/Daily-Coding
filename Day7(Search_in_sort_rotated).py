@@ -57,7 +57,7 @@ def pivot_ele(arr, low, high):
     return pivot_ele(arr, low, mid-1)
     
 
-ar1 = list(map(int, input('Enter array: ').split(' ')))
+a1 = list(map(int, input('Enter array: ').split(' ')))
 key = int(input('Enter key: '))
 check = binary_pivot_search(a1, 0, len(a1)-1, key)
 if check != -1:
