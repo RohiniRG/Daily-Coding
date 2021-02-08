@@ -169,6 +169,7 @@ An element in a sorted array can be found in O(log n) time via binary search.
 But suppose we rotate an ascending order sorted array at some pivot unknown to you beforehand. 
 So for instance, 1 2 3 4 5 might become 3 4 5 1 2. 
 Devise a way to find an element in the rotated array in O(log n) time.<br />
+https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 
 **Examples:** <br />
 Input  : arr[] = {5, 6, 7, 8, 9, 10, 1, 2, 3}; <br />
@@ -192,3 +193,21 @@ Constraints:<br />
 1 ≤ K ≤ 10<sup>8</sup>
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day7(Search_in_sort_rotated).py)
+
+***
+## Day 8
+### Problem Statement: Search an element in sorted and rotated array
+Implement Merge Sort is a Divide and Conquer algorithm. 
+It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves. 
+The merge() function is used for merging two halves. 
+The merge(arr, l, m, r) is a key process that assumes that arr[l..m] and arr[m+1..r] are sorted and merges the two sorted sub-arrays into one. <br />
+https://www.geeksforgeeks.org/merge-sort/
+
+Expected Auxiliary Space: O(n) <br />
+Expected Time Complexity: O(n) for the merge() function only.
+
+Constraints:
+1 <= N <= 10<sup>5<\sup> <br />
+1 <= arr[i] <= 10<sup>3<\sup>
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day8(Merge_sort).py)
