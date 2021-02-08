@@ -206,8 +206,8 @@ https://www.geeksforgeeks.org/merge-sort/
 Expected Auxiliary Space: O(n) <br />
 Expected Time Complexity: O(n) for the merge() function only.
 
-Constraints:
-1 <= N <= 10<sup>5<\sup> <br />
-1 <= arr[i] <= 10<sup>3<\sup>
+Constraints:<br />
+1 <= N <= 10<sup>5</sup> <br />
+1 <= arr[i] <= 10<sup>3</sup>
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day8(Merge_sort).py)
