@@ -235,3 +235,28 @@ Constraints: <br />
 1 <= arr[i], brr[i] <= 10<sup>6</sup>
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day9(List_union).py)
+
+***
+## Day 9
+### Problem Statement: Intersection of 2 sorted arrays
+Given two sorted arrays, find their union. <br />
+https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+
+**Examples:** <br />
+Input : arr1[] = {1, 3, 4, 5, 7} <br />
+        arr2[] = {2, 3, 5, 6} <br />
+Output : Intersection : {3, 5}
+
+Input : arr1[] = {2, 5, 6} <br />
+        arr2[] = {4, 6, 8, 10} <br />
+Output : Intersection : {6}
+        
+Expected Time Complexity: O(N+M) <br />
+Expected Auxiliary Space: O(N+M) <br />
+ 
+Constraints: <br />
+1 <= N, M <= 10<sup>5</sup> <br />
+1 <= arr[i], brr[i] <= 10<sup>6</sup>
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day10(List_intersection).py)
+       
