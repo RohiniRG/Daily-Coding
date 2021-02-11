@@ -237,7 +237,7 @@ Constraints: <br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day9(List_union).py)
 
 ***
-## Day 9
+## Day 10
 ### Problem Statement: Intersection of 2 sorted arrays
 Given two sorted arrays, find their union. <br />
 https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
@@ -260,3 +260,22 @@ Constraints: <br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day10(List_intersection).py)
        
+***
+## Day 10
+### Problem Statement: Minimum number of swaps
+Given an array of n distinct elements, find the minimum number of swaps required to sort the array.<br />
+
+**Examples:** <br />
+Input : {4, 3, 2, 1} <br />
+Output : 2 <br />
+Explanation : Swap index 0 with 3 and 1 with 2 to form the sorted array {1, 2, 3, 4}.
+
+Input : {1, 5, 4, 3, 2}<br />
+Output : 2
+
+Expected Time Complexity: O(nlogn)<br />
+Expected Auxiliary Space: O(n)
+
+Constraints:<br />
+1 ≤ n ≤ 10^5<br />
+1 ≤ numsi ≤ 10^6
