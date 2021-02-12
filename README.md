@@ -261,9 +261,10 @@ Constraints: <br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day10(List_intersection).py)
        
 ***
-## Day 10
+## Day 11
 ### Problem Statement: Minimum number of swaps
 Given an array of n distinct elements, find the minimum number of swaps required to sort the array.<br />
+https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/
 
 **Examples:** <br />
 Input : {4, 3, 2, 1} <br />
@@ -277,5 +278,28 @@ Expected Time Complexity: O(nlogn)<br />
 Expected Auxiliary Space: O(n)
 
 Constraints:<br />
-1 ≤ n ≤ 10^5<br />
-1 ≤ numsi ≤ 10^6
+1 ≤ n ≤ 10<sup>5</sup><br />
+1 ≤ nums<sub>i</sub> ≤ 10<sup>6</sup>
+
+**Solution:** [here]
+
+***
+## Day 12
+### Problem Statement: Doubling and searching
+Given an array “a[]” and integer “b”. Find whether b is present in a[] or not. 
+If present, then double the value of b and search again. 
+We repeat these steps until b is not found. Finally we return value of b.<br />
+https://www.geeksforgeeks.org/repeatedly-search-element-doubling-every-successful-search/
+
+**Examples:** <br />
+Input : a[] = {1, 2, 3}<br />
+        b = 1 <br />
+Output :4<br />
+Initially we start with b = 1. Since it is present in array, it becomes 2.
+Now 2 is also present in array b becomes 4 .Since 4 is not present, we return 4.
+
+Input : a[] = {1 3 5 2 12} <br />
+        b = 3 <br />
+Output :6
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day12(Doubling_after_search).py)
