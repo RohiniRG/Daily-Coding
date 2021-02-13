@@ -329,3 +329,5 @@ Expected Auxiliary Space: O(n)
 Constraints:<br />
 1 <= N <= 1000<br />
 1 <= A[i] < D[i] <= 2359<br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day13(Minimum_platforms).py)
