@@ -303,3 +303,29 @@ Input : a[] = {1 3 5 2 12} <br />
 Output :6
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day12(Doubling_after_search).py)
+
+***
+## Day 13
+### Problem Statement: Minimum platforms
+Given arrival and departure times of all trains that reach a railway station, 
+the task is to find the minimum number of platforms required for the railway station so that no train waits. 
+We are given two arrays which represent arrival and departure times of trains that stop.<br />
+https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+
+**Examples:** <br />
+Input: arr[] = {9:00, 9:40, 9:50, 11:00, 15:00, 18:00} <br />
+dep[] = {9:10, 12:00, 11:20, 11:30, 19:00, 20:00} <br />
+Output: 3 <br />
+Explantion: There are at-most three trains at a time (time between 11:00 to 11:20)
+
+Input: arr[] = {9:00, 9:40} <br />
+dep[] = {9:10, 12:00} <br />
+Output: 1 <br />
+Explantion: Only one platform is needed. 
+
+Expected Time Complexity: O(nLogn) <br />
+Expected Auxiliary Space: O(n)
+
+Constraints:<br />
+1 <= N <= 1000<br />
+1 <= A[i] < D[i] <= 2359<br />
