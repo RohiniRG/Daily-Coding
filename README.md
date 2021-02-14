@@ -331,3 +331,40 @@ Constraints:<br />
 1 <= A[i] < D[i] <= 2359<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day13(Minimum_platforms).py)
+
+***
+## Day 14
+### Problem Statement: Find the Median
+Given two sorted arrays, a[] and b[], 
+the task is to find the median of these sorted arrays, 
+in O(log n + log m) time complexity, when n is the number of elements in the first array, 
+and m is the number of elements in the second array.<br />
+https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+
+**Examples:** <br />
+Input: ar1[] = {-5, 3, 6, 12, 15}<br />
+        ar2[] = {-12, -10, -6, -3, 4, 10}<br />
+Output : The median is 3.<br />
+Explanation : The merged array is :
+        ar3[] = {-12, -10, -6, -5 , -3,
+                 3, 4, 6, 10, 12, 15},
+       So the median of the merged array is 3
+
+Input: ar1[] = {2, 3, 5, 8}<br />
+        ar2[] = {10, 12, 14, 16, 18, 20}<br />
+Output : The median is 11.<br />
+Explanation : The merged array is :
+        ar3[] = {2, 3, 5, 8, 10, 12, 14, 16, 18, 20}
+        if the number of the elements are even, 
+        so there are two middle elements,
+        take the average between the two :
+        (10 + 12) / 2 = 11.
+        
+Expected Time Complexity : O(log(max(m,n)))  <br />
+Expected Auxilliary Space : O(1)
+
+Constraints:<br />
+1 <= N, M <= 10^6<br />
+1 <= arr[i], brr[i] <= 10^7
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day14(Find_median).py)
