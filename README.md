@@ -361,10 +361,34 @@ Explanation : The merged array is :
         (10 + 12) / 2 = 11.
         
 Expected Time Complexity : O(log(max(m,n)))  <br />
-Expected Auxilliary Space : O(1)
+Expected Auxilliary Space : O(n)
 
 Constraints:<br />
 1 <= N, M <= 10^6<br />
 1 <= arr[i], brr[i] <= 10^7
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day14(Find_median).py)
+
+***
+## Day 15
+### Problem Statement: Sort array of 0s, 1s, 2s
+Given an array A[] consisting 0s, 1s and 2s. 
+The task is to write a function that sorts the given array. 
+The functions should put all 0s first, then all 1s and all 2s in last.<br />
+https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+
+**Examples:** <br />
+Input: {0, 1, 2, 0, 1, 2}<br />
+Output: {0, 0, 1, 1, 2, 2}
+
+Input: {0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1}<br />
+Output: {0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2}
+
+Expected Time Complexity: O(N)
+Expected Auxiliary Space: O(1)
+
+Constraints:
+1 <= N <= 10^5
+0 <= A[i] <= 2
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day15(Array_of_0s1s2s).py)
