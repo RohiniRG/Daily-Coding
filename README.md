@@ -392,3 +392,11 @@ Constraints:
 0 <= A[i] <= 2
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day15(Array_of_0s1s2s).py)
+
+***
+## Day 16
+### Problem Statement: Matrix operations
+Demonstrate different matrix operations (Addition, Subtraction, Multiplication)<br />
+https://www.geeksforgeeks.org/different-operation-matrices/
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day16(Matrix_ops).py)
