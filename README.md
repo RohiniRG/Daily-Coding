@@ -400,3 +400,23 @@ Demonstrate different matrix operations (Addition, Subtraction, Multiplication)<
 https://www.geeksforgeeks.org/different-operation-matrices/
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day16(Matrix_ops).py)
+
+***
+## Day 17
+### Problem Statement: Minimum maximum difference
+Given an array of N elements, the task is to minimize the maximum difference of adjacent elements by inserting at most K elements in the array.<br />
+https://www.geeksforgeeks.org/minimize-the-maximum-difference-of-adjacent-elements-after-at-most-k-insertions/
+
+**Examples:** <br />
+
+Input: arr = [2, 6, 8] K = 1 <br />
+Output: 2 <br />
+Explanation: 
+After insertion of 4 in between 2 and 6, the array becomes [2, 4, 6, 8]. In this case the maximum difference between any adjacent element is 2, which is the minimum that can be.
+
+Input: arr = [3, 12] K = 2 <br />
+Output: 3 <br />
+Explanation: 
+After insertion of 6 and 9 in between 3 and 12, the array becomes [3, 6, 9, 12]. In this case the maximum difference between any adjacent element is 3, which is the minimum that can be. 
+
+**Solution:** [here]
