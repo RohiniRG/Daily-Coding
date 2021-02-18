@@ -419,4 +419,5 @@ Output: 3 <br />
 Explanation: 
 After insertion of 6 and 9 in between 3 and 12, the array becomes [3, 6, 9, 12]. In this case the maximum difference between any adjacent element is 3, which is the minimum that can be. 
 
-**Solution:** [here]
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day17(Min_max_diff).py)
+
