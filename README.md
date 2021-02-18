@@ -421,3 +421,29 @@ After insertion of 6 and 9 in between 3 and 12, the array becomes [3, 6, 9, 12].
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day17(Min_max_diff).py)
 
+***
+## Day 18
+### Problem Statement: Determinant of a matrix
+Given a square matrix of size N x N. The task is to find the determinant of this matrix.
+https://www.geeksforgeeks.org/determinant-of-a-matrix/
+
+**Examples:** <br />
+Input: N = 4<br />
+matrix[][] = {{1, 0, 2, -1},<br />
+              {3, 0, 0, 5},<br />
+              {2, 1, 4, -3},<br />
+              {1, 0, 5, 0}}<br />
+Output: 30<br />
+Explanation:
+Determinant of the given matrix is 30. 
+
+Input: N = 3<br /> 
+matrix[][] = {{1, 2, 3},<br />
+              {4, 5, 6},<br />
+              {7, 10, 9}}<br />
+Output: 12<br />
+Explanation:
+Determinant of the given matrix is 12.
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day18(Determinant).py)
+
