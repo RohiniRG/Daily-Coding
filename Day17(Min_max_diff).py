@@ -1,3 +1,20 @@
+# Given an array of N elements, 
+# the task is to minimize the maximum difference of adjacent elements by inserting at most K elements in the array.
+
+# Examples:
+
+# Input: arr = [2, 6, 8] K = 1
+# Output: 2
+# Explanation: After insertion of 4 in between 2 and 6, the array becomes [2, 4, 6, 8]. 
+# In this case the maximum difference between any adjacent element is 2, which is the minimum that can be.
+
+# Input: arr = [3, 12] K = 2
+# Output: 3
+# Explanation: After insertion of 6 and 9 in between 3 and 12, the array becomes [3, 6, 9, 12]. 
+# In this case the maximum difference between any adjacent element is 3, which is the minimum that can be.
+
+# ***************************************************************************************************
+
 def minMaxDiff(arr, n, k):
  
     max_adj_dif = float('-inf')
