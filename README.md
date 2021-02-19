@@ -445,5 +445,12 @@ Output: 12<br />
 Explanation:
 Determinant of the given matrix is 12.
 
+Expected Time Complexity: O(N^4)<br />
+Expected Auxiliary Space: O(N^2)
+
+Constraints:<br />
+1 <= N <= 8<br />
+-10 <= mat[i][j] <= 10
+
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day18(Determinant).py)
 
