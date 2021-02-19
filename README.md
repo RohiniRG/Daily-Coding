@@ -428,6 +428,7 @@ Given a square matrix of size N x N. The task is to find the determinant of this
 https://www.geeksforgeeks.org/determinant-of-a-matrix/
 
 **Examples:** <br />
+
 Input: N = 4<br />
 matrix[][] = {{1, 0, 2, -1},<br />
               {3, 0, 0, 5},<br />
@@ -454,3 +455,40 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day18(Determinant).py)
 
+***
+## Day 19
+### Problem Statement: Transpose of a matrix
+Write a program to find the transpose of a square matrix of size N*N. 
+Transpose of a matrix is obtained by changing rows to columns and columns to rows.<br />
+https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/
+
+**Examples:** <br />
+
+Input:
+N = 4<br />
+mat[][] = {{1, 1, 1, 1},<br />
+           {2, 2, 2, 2}<br />
+           {3, 3, 3, 3}<br />
+           {4, 4, 4, 4}}<br />
+Output: <br />
+{{1, 2, 3, 4},<br />  
+ {1, 2, 3, 4}<br />  
+ {1, 2, 3, 4}<br />
+ {1, 2, 3, 4}} 
+
+Input:
+N = 2<br />
+mat[][] = {{1, 2},<br />
+           {-9, -2}}<br />
+Output:<br />
+{{1, -9}, <br />
+ {2, -2}}
+ 
+Expected Time Complexity: O(N * N)<br />
+Expected Auxiliary Space: O(1)
+
+Constraints:<br />
+1 <= N <= 100<br />
+-10^3 <= mat[i][j] <= 10^3
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day19(Transpose).py)
