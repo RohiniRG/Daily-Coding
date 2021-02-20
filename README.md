@@ -492,3 +492,41 @@ Constraints:<br />
 -10^3 <= mat[i][j] <= 10^3
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day19(Transpose).py)
+
+***
+## Day 20
+### Problem Statement: Rotate by 90 degree
+Given a square matrix of size N x N. 
+The task is to rotate it by 90 degrees in anti-clockwise direction without using any extra space. 
+https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/
+
+**Examples:** <br />
+
+Input:
+N = 3 <br />
+matrix[][] = {{1, 2, 3},<br />
+              {4, 5, 6}<br />
+              {7, 8, 9}}<br />
+Output: <br />
+Rotated Matrix:<br />
+3 6 9<br />
+2 5 8<br />
+1 4 7<br />
+
+Input: 
+N = 2<br />
+matrix[][] = {{1, 2},<br />
+              {3, 4}}<br />
+Output: <br />
+Rotated Matrix:<br />
+2 4<br />
+1 3<br />
+
+Expected Time Complexity: O(N^2)<br />
+Expected Auxiliary Space: O(1)<br />
+
+Constraints:<br />
+1 ≤ N ≤ 100<br />
+1 <= matrix[][] <= 1000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day20(Rotate_anti).py)
