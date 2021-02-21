@@ -40,4 +40,4 @@ matrix = [[1, 2, 3],
           [7, 8, 9]]
 
 anti_rotate(matrix, len(matrix))
-print('Anti-clockwise rotated matrix is: 'matrix)
+print('Anti-clockwise rotated matrix is: ',matrix)
