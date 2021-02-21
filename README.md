@@ -530,3 +530,29 @@ Constraints:<br />
 1 <= matrix[][] <= 1000
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day20(Rotate_anti).py)
+
+***
+## Day 21
+### Problem Statement: Spirally traversing a matrix
+Given a matrix of size R*C. Traverse the matrix in spiral form.
+https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
+
+**Examples:** <br />
+
+Input:
+R = 4, C = 4<br />
+matrix[][] = {{1, 2, 3, 4},<br />
+           {5, 6, 7, 8},<br />
+           {9, 10, 11, 12},<br />
+           {13, 14, 15,16}}<br />
+Output: 
+1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10<br />
+
+Expected Time Complexity: O(R*C)<br />
+Expected Auxiliary Space: O(R*C)<br />
+
+Constraints:<br />
+1 <= R, C <= 100<br />
+0 <= matrixi <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day21(Spiral_matrix).py)
