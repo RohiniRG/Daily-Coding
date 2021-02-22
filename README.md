@@ -582,4 +582,12 @@ matrix[][] = {{18, 21, 27, 38, 55, 67}} <br />
 Output: 1 <br />
 Explanation: 55 is present in the matrix. <br />
 
+Expected Time Complexity: O(N + M) <br />
+Expected Auxiliary Space: O(1)<br />
+
+Constraints: <br />
+1 <= N, M <= 1000 <br />
+1 <= mat[][] <= 10^5 <br />
+1 <= X <= 1000 <br />
+
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day22(Searching_sorted_mat).py)
