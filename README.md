@@ -497,7 +497,7 @@ Constraints:<br />
 ## Day 20
 ### Problem Statement: Rotate by 90 degree
 Given a square matrix of size N x N. 
-The task is to rotate it by 90 degrees in anti-clockwise direction without using any extra space. 
+The task is to rotate it by 90 degrees in anti-clockwise direction without using any extra space. <br />
 https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/
 
 **Examples:** <br />
@@ -534,7 +534,7 @@ Constraints:<br />
 ***
 ## Day 21
 ### Problem Statement: Spirally traversing a matrix
-Given a matrix of size R*C. Traverse the matrix in spiral form.
+Given a matrix of size R*C. Traverse the matrix in spiral form. <br />
 https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
 
 **Examples:** <br />
@@ -556,3 +556,30 @@ Constraints:<br />
 0 <= matrixi <= 100
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day21(Spiral_matrix).py)
+
+***
+## Day 22
+### Problem Statement: Search in a row-column sorted Matrix
+Given a matrix of size n x m, where every row and column is sorted in increasing order, and a number x. 
+Find whether element x is present in the matrix or not.<br />
+https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
+
+**Examples:** <br />
+
+Input:<br />
+n = 3, m = 3, x = 62 <br />
+matrix[][] = {{ 3, 30, 38},<br />
+              {36, 43, 60},<br />
+              {40, 51, 69}}<br />
+Output: 0 <br />
+Explanation:
+62 is not present in the matrix,  
+so output is 0.<br />
+
+Input: <br />
+n = 1, m = 6, x = 55 <br />
+matrix[][] = {{18, 21, 27, 38, 55, 67}} <br />
+Output: 1 <br />
+Explanation: 55 is present in the matrix. <br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day22(Searching_sorted_mat).py)
