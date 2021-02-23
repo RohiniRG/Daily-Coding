@@ -591,3 +591,37 @@ Constraints: <br />
 1 <= X <= 1000 <br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day22(Searching_sorted_mat).py)
+
+***
+## Day 23
+### Problem Statement: Max rectangle
+Given a binary matrix. Find the maximum area of a rectangle formed only of 1s in the given matrix.<br />
+https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
+
+**Examples:** <br />
+
+Input:
+n = 4, m = 4 <br />
+M[][] = {{0 1 1 0},<br />
+         {1 1 1 1},<br />
+         {1 1 1 1},<br />
+         {1 1 0 0}}<br />
+Output: 8<br />
+Explanation: For the above test case the matrix will look like<br />
+0 1 1 0<br />
+1 1 1 1<br />
+1 1 1 1<br />
+1 1 0 0<br />
+the max size rectangle is <br />
+1 1 1 1<br />
+1 1 1 1<br />
+and area is 4 *2 = 8.<br />
+
+Expected Time Complexity : O(n*m)<br />
+Expected Auixiliary Space : O(m)<br />
+
+Constraints:<br />
+1<=n,m<=1000<br />
+0<=M[][]<=1<br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day23(Max_rect).py)
