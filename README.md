@@ -646,3 +646,33 @@ Constraints:<br />
 1<=n<=3999<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day24(Roman_num).py)
+
+## Day 25
+### Problem Statement: Maximum Occuring Character 
+Given a string str. The task is to find the maximum occurring character in the string str. 
+If more than one character occurs the maximum number of time then print the lexicographically smaller character.  <br />
+https://www.geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
+
+**Examples:** <br />
+
+Input: 
+str = testsample  <br />
+Output: e  <br />
+Explanation: e is the character which
+is having the highest frequency.  <br />
+
+Input:
+str = output  <br />
+Output: t  <br />
+Explanation:  t and u are the characters
+with the same frequency, but t is
+lexicographically smaller.  <br />
+
+Expected Time Complexity: O(N). <br />
+Expected Auxiliary Space: O(Number of distinct characters).<br />
+Note: N = |s| <br />
+
+Constraints: 
+1 ≤ |s| ≤ 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day25(Max_occuring_char).py)
