@@ -8,7 +8,6 @@
 # Output: e
 # Explanation: e is the character which
 # is having the highest frequency.
-# Example 2:
 
 # Input:
 # str = output
