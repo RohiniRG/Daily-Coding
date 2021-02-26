@@ -676,3 +676,27 @@ Constraints:
 1 ≤ |s| ≤ 100
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day25(Max_occuring_char).py)
+
+## Day 26
+### Problem Statement: Maximum Occuring Character
+You are given a string s. You need to find the missing characters in the string to make a panagram.
+Note: The output characters will be lowercase and lexicographically sorted.
+https://www.geeksforgeeks.org/missing-characters-make-string-pangram/
+
+**Examples:** <br />
+
+Input: <br />
+s = Abcdefghijklmnopqrstuvwxy  <br />
+Output: z 
+
+Input:  <br />
+s = Abc <br />
+Output: defghijklmnopqrstuvwxyz
+
+Expected Time Complexity: O(|S|).<br />
+Expected Auxiliary Space: O(1).
+
+Constraints:<br />
+1 <= |s| <= 10000<br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day26(Missing_char).py)
