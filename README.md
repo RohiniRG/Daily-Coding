@@ -680,7 +680,7 @@ Constraints:
 ## Day 26
 ### Problem Statement: Maximum Occuring Character
 You are given a string s. You need to find the missing characters in the string to make a panagram.
-Note: The output characters will be lowercase and lexicographically sorted.
+Note: The output characters will be lowercase and lexicographically sorted.<br />
 https://www.geeksforgeeks.org/missing-characters-make-string-pangram/
 
 **Examples:** <br />
@@ -700,3 +700,30 @@ Constraints:<br />
 1 <= |s| <= 10000<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day26(Missing_char).py)
+
+## Day 26
+### Problem Statement: Validate an IP Address
+The generalized form of an IPv4 address is (0-255).(0-255).(0-255).(0-255). 
+Here we are considering numbers only from 0 to 255 and any additional leading zeroes will be considered invalid.<br />
+https://www.geeksforgeeks.org/program-to-validate-an-ip-address/
+
+**Examples:** <br />
+
+Input: 
+ip = 222.111.111.111 <br />
+Output: 1 
+
+Input:
+ip = 5555..555 <br />
+Output: 0 <br />
+Explanation: 5555..555 is not a valid
+ip address, as the middle two portions
+are missing. <br />
+
+Expected Time Complexity: O(N), N = length of string. <br />
+Expected Auxiliary Space: O(1)
+
+Constraints: 
+1<=length of string <=50 <br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day27(Validate_IP).py)
