@@ -727,3 +727,31 @@ Constraints:
 1<=length of string <=50 <br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day27(Validate_IP).py)
+
+## Day 28
+### Problem Statement: Find occurance of substring
+Given two strings s1 and s2, find if s1 is a substring of s2. 
+If yes, return the index of the first occurrence, else return -1.<br />
+https://www.geeksforgeeks.org/check-string-substring-another/
+
+**Examples:** <br />
+
+Input: s1 = "for", s2 = "geeksforgeeks" <br />
+Output: 5 <br />
+Explanation:
+String "for" is present as a substring
+of s2.
+
+Input: s1 = "practice", s2 = "geeksforgeeks" <br />
+Output: -1.<br />
+Explanation:
+There is no occurrence of "practice" in
+"geeksforgeeks" <br />
+
+Expected Time Complexity: O(|s|*|x|) <br />
+Expected Auxiliary Space: O(1) <br />
+
+Constraints:
+1 <= |s|,|x| <= 1000 <br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day28(Find_substr).py)
