@@ -755,3 +755,30 @@ Constraints:
 1 <= |s|,|x| <= 1000 <br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day28(Find_substr).py)
+
+## Day 29
+### Problem Statement: Isomorphic strings
+Given two strings 'str1' and 'str2', check if these two strings are isomorphic to each other.
+Two strings str1 and str2 are called isomorphic if there is a one to one mapping possible
+for every character of str1 to every character of str2 while preserving the order.
+https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-other/
+
+**Examples:** <br />
+
+Input:  str1 = "aab", str2 = "xxy" <br />
+Output: True <br />
+'a' is mapped to 'x' and 'b' is mapped to 'y'.
+
+Input:  str1 = "aab", str2 = "xyz" <br />
+Output: False <br />
+One occurrence of 'a' in str1 has 'x' in str2 and 
+other occurrence of 'a' has 'y'.
+
+Expected Time Complexity: O(|str1|+|str2|). <br />
+Expected Auxiliary Space: O(Number of different characters). <br />
+Note: |s| represents the length of string s.
+
+Constraints:
+1 <= |str1|, |str2| <= 10^3 <br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day29(Isomorphic).py)
