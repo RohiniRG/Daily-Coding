@@ -782,3 +782,33 @@ Constraints:
 1 <= |str1|, |str2| <= 10^3 <br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day29(Isomorphic).py)
+
+## Day 30
+### Problem Statement: Rotated strings
+Given two strings s1 and s2. 
+The task is to check if s2 is a rotated version of the string s1. 
+The characters in the strings are in lowercase.<br />
+https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
+
+**Examples:** <br />
+
+Input: <br />
+geeksforgeeks<br />
+forgeeksgeeks<br />
+Output: 1<br />
+Explanation: s1 is geeksforgeeks, s2 is forgeeksgeeks. Clearly, s2 is a rotated 
+version of s1 as s2 can be obtained by left-rotating s1 by 5 units. 
+ 
+Input:<br />
+mightandmagic<br />
+andmagicmigth<br />
+Output: 0<br />
+Explanation: Here with any amount of rotation s2 can't be obtained by s1.
+
+Expected Time Complexity: O(N)<br />
+Expected Space Complexity: O(N)<br />
+
+Constraints:
+1 <= |s1|, |s2| <= 10^7<br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day30(Rotated_str).py)
