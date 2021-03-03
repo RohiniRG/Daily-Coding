@@ -812,3 +812,31 @@ Constraints:
 1 <= |s1|, |s2| <= 10^7<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day30(Rotated_str).py)
+
+## Day 31
+### Problem Statement: Longest Substring Without Repeating Characters
+Given a string S, find the length of its longest substring that does not have any repeating characters.
+https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/
+
+**Examples:** <br />
+
+Input:
+S = geeksforgeeks <br />
+Output: 7 <br />
+Explanation: The longest substring
+without repeated characters is "ksforge".
+
+Input:
+S = abbcdb <br />
+Output: 3 <br />
+Explanation: The longest substring is
+"bcd". Here "abcd" is not a substring
+of the given string.
+
+Expected Time Complexity: O(N) <br />
+Expected Auxiliary Space: O(1) <br />
+
+Constraints: 
+0<= N <= 10^5 <br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day31(Non-repeating_str).py)
