@@ -840,3 +840,27 @@ Constraints:
 0<= N <= 10^5 <br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day31(Non-repeating_str).py)
+
+## Day 32
+### Problem Statement: Multiply two strings
+Given two numbers as stings s1 and s2. Calculate their Product.
+https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/
+
+**Examples:** <br />
+
+Input : num1 = 4154 <br /> 
+        num2 = 51454<br />
+Output : 213739916 
+
+Input :  num1 = 654154154151454545415415454  <br />
+         num2 = 63516561563156316545145146514654 <br />
+Output : 41549622603955309777243716069997997007620439937711509062916
+
+Expected Time Complexity: O(n1* n2) <br />
+Expected Auxiliary Space: O(n1 + n2) ; where n1 and n2 are sizes of strings s1 and s2 respectively.
+
+Constraints:
+1 <= length of s1 and s2 <= 10^3 
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day32(Multiply_strs).py)
+
