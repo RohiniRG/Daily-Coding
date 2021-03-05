@@ -815,7 +815,7 @@ Constraints:
 
 ## Day 31
 ### Problem Statement: Longest Substring Without Repeating Characters
-Given a string S, find the length of its longest substring that does not have any repeating characters.
+Given a string S, find the length of its longest substring that does not have any repeating characters.<br />
 https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/
 
 **Examples:** <br />
@@ -843,7 +843,7 @@ Constraints:
 
 ## Day 32
 ### Problem Statement: Multiply two strings
-Given two numbers as stings s1 and s2. Calculate their Product.
+Given two numbers as stings s1 and s2. Calculate their Product.<br />
 https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/
 
 **Examples:** <br />
@@ -864,3 +864,33 @@ Constraints:
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day32(Multiply_strs).py)
 
+## Day 33
+### Problem Statement: Anagram
+Given two strings a and b consisting of lowercase characters.
+The task is to check whether two given strings are an anagram of each other or not. 
+An anagram of a string is another string that contains the same characters, only the order of characters can be different. 
+For example, “act” and “tac” are an anagram of each other.<br />
+https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
+
+**Examples:** <br />
+
+Input:
+a = geeksforgeeks, b = forgeeksgeeks <br />
+Output: YES <br />
+Explanation: Both the string have same
+characters with same frequency. So, 
+both are anagrams.
+
+Input:
+a = allergy, b = allergic <br />
+Output: NO <br />
+Explanation:Characters in both the strings
+are not same, so they are not anagrams.
+
+Expected Time Complexity: O(|a|+|b|). <br />
+Expected Auxiliary Space: O(Number of distinct characters).
+
+Constraints:
+1 ≤ |a|,|b| ≤ 10^5 
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day33(Anagram).py)
