@@ -894,3 +894,24 @@ Constraints:
 1 ≤ |a|,|b| ≤ 10^5 
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day33(Anagram).py)
+
+## Day 34
+### Problem Statement: Excel Columns
+Given a positive integer N, return its corresponding column title as it would appear in an Excel sheet.
+For N =1 we have column A, for 27 we have AA and so on. <br />
+https://www.geeksforgeeks.org/find-excel-column-name-given-number/
+
+**Examples:** <br />
+
+Input:
+N = 51 <br />
+Output: AY <br />
+
+Expected Time Complexity: O(Log(N)) <br />
+Expected Auxiliary Space: O(Log(N))
+
+Constraints:
+1 ≤ N ≤ 10^7
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day34(Excel_cols).py)
+
