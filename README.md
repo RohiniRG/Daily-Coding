@@ -915,3 +915,25 @@ Constraints:
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day34(Excel_cols).py)
 
+## Day 35
+### Problem Statement: Reverse words in string
+Given a String S, reverse the string without reversing its individual words. Words are separated by dots.<br />
+https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
+
+**Examples:** <br />
+
+Input:
+S = i.like.this.program.very.much <br />
+Output: much.very.program.this.like.i
+
+Input:
+S = pqr.mno <br />
+Output: mno.pqr
+
+Expected Time Complexity: O(|S|) <br />
+Expected Auxiliary Space: O(|S|)
+
+Constraints:
+1 <= |S| <= 2000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day35(Reverse_words).py)
