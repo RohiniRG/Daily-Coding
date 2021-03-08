@@ -937,3 +937,31 @@ Constraints:
 1 <= |S| <= 2000
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day35(Reverse_words).py)
+
+## Day 36
+### Problem Statement: Check if k-th bit is set or not
+Given a number N and a bit number K, check if Kth bit of N is set or not.<br />
+https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/ 
+
+**Examples:** <br />
+
+Input: N = 4, K = 0 <br />
+Output: No <br />
+Explanation: Binary representation of 4 is 100, 
+in which 0th bit from LSB is not set. 
+So, return false.
+
+Input: N = 4, K = 2 <br />
+Output: Yes <br />
+Explanation: Binary representation of 4 is 100, 
+in which 2nd bit from LSB is set. 
+So, return true.
+
+Expected Time Complexity: O(LogN). <br />
+Expected Auxiliary Space: O(1).
+
+Constraints: <br />
+1 ≤ N ≤ 10^9  <br />
+0 ≤ K ≤ floor(log2(N) + 1)
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day36(Check_set).py)
