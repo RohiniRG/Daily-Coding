@@ -965,3 +965,29 @@ Constraints: <br />
 0 ≤ K ≤ floor(log2(N) + 1)
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day36(Check_set).py)
+
+
+## Day 37
+### Problem Statement: Powers of 2
+Given a positive integer N. The task is to check if N is a power of 2. 
+More formally, check if N can be expressed as 2x for some x.<br />
+https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
+
+**Examples:** <br />
+
+Input: N = 1<br />
+Output: true<br />
+Explanation: 1 is equal to 2 raised to 0 (20 == 1).
+
+Input: N = 98<br />
+Output: false<br />
+Explanation: 
+98 cannot be obtained by any power of 2.
+
+Expected Time Complexity: O(log N).<br />
+Expected Auxiliary Space: O(1).
+
+Constraints:
+0 <= N <= 10^18<br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day37(2s_powers).py)
