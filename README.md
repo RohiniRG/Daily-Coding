@@ -966,7 +966,6 @@ Constraints: <br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day36(Check_set).py)
 
-
 ## Day 37
 ### Problem Statement: Powers of 2
 Given a positive integer N. The task is to check if N is a power of 2. 
@@ -991,3 +990,28 @@ Constraints:
 0 <= N <= 10^18<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day37(2s_powers).py)
+
+## Day 38
+### Problem Statement: Number is sparse or not
+Check if a given number is Sparse or not.<br />
+https://www.geeksforgeeks.org/check-if-a-given-number-is-sparse-or-not/
+
+**Examples:** <br />
+
+Input:  x  = 72<br />
+Output: true<br />
+Explanation:  Binary representation of 72 is 01001000. 
+There are no two consecutive 1's in binary representation
+
+Input:  x  = 12<br />
+Output: false<br />
+Explanation:  Binary representation of 12 is 1100. 
+Third and fourth bits (from end) are set.
+
+Expected Time Complexity: O(log N).<br />
+Expected Auxiliary Space: O(1).
+
+Constraints:
+1 <= N <= 10^6
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day38(Sparse).py)
