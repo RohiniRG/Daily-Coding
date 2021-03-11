@@ -1015,3 +1015,25 @@ Constraints:
 1 <= N <= 10^6
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day38(Sparse).py)
+
+## Day 30
+### Problem Statement: Bit difference
+You are given two numbers A and B. 
+The task is to count the number of bits needed to be flipped to convert A to B.<br />
+https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/
+
+**Examples:** <br />
+
+Input : a = 10, b = 20 <br />
+Output : 4
+
+Input : a = 7, b = 10<br />
+Output : 3
+
+Expected Time Complexity: O(log N). <br />
+Expected Auxiliary Space: O(1).
+
+Constraints:
+1 <= N <= 10^6
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day39(Bit_diff).py)
