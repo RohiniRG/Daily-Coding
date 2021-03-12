@@ -1016,7 +1016,7 @@ Constraints:
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day38(Sparse).py)
 
-## Day 30
+## Day 39
 ### Problem Statement: Bit difference
 You are given two numbers A and B. 
 The task is to count the number of bits needed to be flipped to convert A to B.<br />
@@ -1037,3 +1037,10 @@ Constraints:
 1 <= N <= 10^6
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day39(Bit_diff).py)
+
+## Day 40
+### Problem Statement: Binary-Gray conversions
+Show binary-to-gray and gray-to-binary conversions of a number.<br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day40(Binary_Gray).py)
+
