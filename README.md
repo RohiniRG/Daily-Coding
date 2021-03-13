@@ -1044,3 +1044,30 @@ Show binary-to-gray and gray-to-binary conversions of a number.<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day40(Binary_Gray).py)
 
+## Day 41
+### Problem Statement: Find first set bit
+Given an integer an N. The task is to return the position of first set bit found from the right side in the binary representation of the number.
+Note: If there is no set bit in the integer N, then return 0 from the function.  <br />
+https://www.geeksforgeeks.org/position-of-rightmost-set-bit/
+
+**Examples:** <br />
+
+Input: N = 18 <br />
+Output: 2 <br />
+Explanation: Binary representation of 
+18 is 010010,the first set bit from the 
+right side is at position 2.
+
+Input: N = 12 <br />
+Output: 3  <br />
+Explanation: Binary representation 
+of  12 is 1100, the first set bit 
+from the right side is at position 3.
+
+Expected Time Complexity: O(log N) <br />
+Expected Auxiliary Space: O(1)
+
+Constraints:
+0 <= N <= 10^8
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day41(First_set_right).py)
