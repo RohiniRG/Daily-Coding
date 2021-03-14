@@ -1071,3 +1071,33 @@ Constraints:
 0 <= N <= 10^8
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day41(First_set_right).py)
+
+## Day 42
+### Problem Statement: Count total set bits 
+You are given a number N. Find the total count of set bits for all numbers from 1 to N(both inclusive) <br />
+https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/
+
+**Examples:** <br />
+
+Input: N = 4 <br />
+Output: 5 <br /> 
+Explanation:<br />
+For numbers from 1 to 4. <br /> 
+For 1: 0 0 1 = 1 set bits <br />
+For 2: 0 1 0 = 1 set bits <br />
+For 3: 0 1 1 = 2 set bits <br />
+For 4: 1 0 0 = 1 set bits <br />
+Therefore, the total set bits is 5.
+
+Input: N = 17 <br />
+Output: 35 <br />
+Explanation: From numbers 1 to 17(both inclusive), 
+the total number of set bits is 35.
+
+Expected Time Complexity: O(log N) <br />
+Expected Auxiliary Space: O(1)
+
+Constraints:
+1 ≤ N ≤ 10^8 
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day42(Total_set).py)
