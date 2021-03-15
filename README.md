@@ -1101,3 +1101,33 @@ Constraints:
 1 ≤ N ≤ 10^8 
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day42(Total_set).py)
+
+## Day 43
+### Problem Statement: Rightmost different bit
+Given two numbers M and N. The task is to find the position of the rightmost different bit in the binary representation of numbers.<br />
+https://www.geeksforgeeks.org/position-rightmost-different-bit/
+
+**Examples:** <br />
+
+Input: m = 11, n = 9 <br />
+Output: 2 <br />
+(11)10 = (1011)2 <br /> 
+(9)10 = (1001)2 <br />
+It can be seen that 2nd bit from
+the right is different 
+
+Input: m = 52, n = 4 <br />
+Output: 5 <br />
+(52)10 = (110100)2 <br />
+(4)10 = (100)2 <br />
+It can be seen that 5th bit from
+the right is different
+
+Expected Time Complexity: O(max(log m, log n)) <br />
+Expected Auxiliary Space: O(1).
+
+Constraints: <br />
+1 <= M <= 10^9 <br />
+1 <= N <= 10^9
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day43(Right_diff_bit).py)
