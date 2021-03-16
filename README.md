@@ -1131,3 +1131,25 @@ Constraints: <br />
 1 <= N <= 10^9
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day43(Right_diff_bit).py)
+
+## Day 44
+### Problem Statement: Maximum subset XOR
+Given an set of positive integers. Find the maximum XOR subset value in the given set. Expected time complexity O(n). <br />
+https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/
+
+**Examples:** <br />
+
+Input: set[] = {2, 4, 5} <br />
+Output: 7 <br />
+The subset {2, 5} has maximum XOR value
+
+Input: set[] = {9, 8, 5} <br />
+Output: 13 <br />
+The subset {8, 5} has maximum XOR value
+
+Expected Time Complexity : O(N*Log(max(arr[i])))  <br />
+Expected Auxiliary Space : O(1)
+ 
+Contraints : <br />
+1 <= N <= 10^5 <br />
+1 <= arr[i] <= 10^6
