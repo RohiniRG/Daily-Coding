@@ -1153,3 +1153,29 @@ Expected Auxiliary Space : O(1)
 Contraints : <br />
 1 <= N <= 10^5 <br />
 1 <= arr[i] <= 10^6
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day44(Max_XOR).py)
+
+## Day 45
+### Problem Statement: Swapping even/odd bits
+Given an unsigned integer N. The task is to swap all odd bits with even bits.<br />
+https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/
+
+**Examples:** <br />
+
+Input: N = 23  <br />
+Output: 43 <br />
+Explanation: 
+Binary representation of the given number 
+is 00010111 after swapping 
+00101011 = 43 in decimal.
+
+Input: N = 2  <br />
+Output: 1
+
+Expected Time Complexity: O(1) <br />
+Expected Auxiliary Space: O(1) 
+
+Constraints: 1 ≤ N ≤ 10^9
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day45(Even_odd_swap).py)
