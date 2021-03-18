@@ -1179,3 +1179,38 @@ Expected Auxiliary Space: O(1)
 Constraints: 1 ≤ N ≤ 10^9
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day45(Even_odd_swap).py)
+
+## Day 45
+### Problem Statement: Equal arrays
+Given two arrays A and B of equal size N, the task is to find if given arrays are equal or not. 
+Two arrays are said to be equal if both of them contain same set of elements, 
+arrangements (or permutation) of elements may be different though.
+Note : If there are repetitions, then counts of repeated elements must also be same for two array to be equal.
+https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/
+
+**Examples:** <br />
+
+Input:
+N = 5 <br />
+A[] = {1,2,5,4,0}<br />
+B[] = {2,4,5,0,1}<br />
+Output: 1<br />
+Explanation: Both the array can be 
+rearranged to {0,1,2,4,5}
+
+Input:
+N = 3<br />
+A[] = {1,2,5}<br />
+B[] = {2,4,15}<br />
+Output: 0<br />
+Explanation: A[] and B[] have only 
+one common value.
+
+Expected Time Complexity : O(N)<br />
+Expected Auxilliary Space : O(N)
+
+Constraints:<br />
+1<=N<=10^7<br />
+1<=A[],B[]<=10^18
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day46(Equal_arrays).py)
