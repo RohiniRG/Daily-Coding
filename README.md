@@ -1180,12 +1180,12 @@ Constraints: 1 ≤ N ≤ 10^9
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day45(Even_odd_swap).py)
 
-## Day 45
+## Day 46
 ### Problem Statement: Equal arrays
 Given two arrays A and B of equal size N, the task is to find if given arrays are equal or not. 
 Two arrays are said to be equal if both of them contain same set of elements, 
-arrangements (or permutation) of elements may be different though.
-Note : If there are repetitions, then counts of repeated elements must also be same for two array to be equal.
+arrangements (or permutation) of elements may be different though. <br />
+Note : If there are repetitions, then counts of repeated elements must also be same for two array to be equal. <br />
 https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/
 
 **Examples:** <br />
@@ -1214,3 +1214,24 @@ Constraints:<br />
 1<=A[],B[]<=10^18
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day46(Equal_arrays).py)
+
+## Day 47
+### Problem Statement: Max distance between same elements
+Given an array with repeated elements, the task is to find the maximum distance two occurrences of an element. <br />
+https://www.geeksforgeeks.org/maximum-distance-two-occurrences-element-array/
+
+**Examples:** <br />
+
+Input : arr[] = {3, 2, 1, 2, 1, 4, 5, 8, 6, 7, 4, 2} <br />
+Output: 10 <br />
+Explanation: <br />
+maximum distance for 2 is 11-1 = 10 <br />
+maximum distance for 1 is 4-2 = 2 <br />
+maximum distance for 4 is 10-5 = 5
+
+Expected Time Complexity : O(N)<br />
+Expected Auxilliary Space : O(N)
+
+Constraints: 1<=N<=10^6<br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day47(Max_dist).py)
