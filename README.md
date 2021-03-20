@@ -1235,3 +1235,32 @@ Expected Auxilliary Space : O(N)
 Constraints: 1<=N<=10^6<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day47(Max_dist).py)
+
+## Day 48
+### Problem Statement: Two sum
+Given an array of positive integers and an integer. 
+Determine whether or not there exist two elements in A whose sum is exactly equal to that integer.<br />
+https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
+
+**Examples:** <br />
+
+Input: arr[] = {0, -1, 2, -3, 1}<br />
+        sum = -2<br />
+Output: -3, 1 <br />
+If we calculate the sum of the output,
+1 + (-3) = -2
+
+Input: arr[] = {1, -2, 1, 0, 5}<br />
+       sum = 0<br />
+Output: -1<br />
+No valid pair exists
+
+Expected Time Complexity: O(N).<br />
+Expected Auxiliary Space: O(N).
+
+Constraints:<br />
+1 ≤ N ≤ 10^5<br />
+1 ≤ A[i] ≤ 10^5<br />
+1 ≤ X ≤ 2*10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day48(Two_sum).py)
