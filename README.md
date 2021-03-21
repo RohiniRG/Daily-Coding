@@ -1264,3 +1264,27 @@ Constraints:<br />
 1 ≤ X ≤ 2*10^5
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day48(Two_sum).py)
+
+## Day 49
+### Problem Statement: Sorting by frequency
+Given an array of integers, sort the array according to frequency of elements. That is elements that have higher frequency come first. 
+If frequencies of two elements are same, then smaller number comes first.<br />
+https://www.geeksforgeeks.org/sort-elements-by-frequency/
+
+**Examples:** <br />
+
+Input:  arr[] = {2, 5, 2, 8, 5, 6, 8, 8}<br />
+Output: arr[] = {8, 8, 8, 2, 2, 5, 5, 6}
+
+Input: arr[] = {2, 5, 2, 6, -1, 9999999, 5, 8, 8, 8}<br />
+Output: arr[] = {8, 8, 8, 2, 2, 5, 5, 6, -1, 9999999}
+
+Expected Time Complexity: O(NLogN)<br />
+Expected Auxiliary Space: O(N)
+
+Constraints:<br />
+1 ≤ N ≤ 10^5<br />
+1 ≤ Ai ≤ 10^5 
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day49(Sorting_freq).py)
+ 
