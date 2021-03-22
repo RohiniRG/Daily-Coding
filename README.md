@@ -1287,4 +1287,28 @@ Constraints:<br />
 1 ≤ Ai ≤ 10^5 
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day49(Sorting_freq).py)
- 
+
+## Day 50
+### Problem Statement: Non-repeating elements
+Find all the non-repeating element in a given array of integers.
+
+**Examples:** <br />
+
+Input:<br />
+n = 10<br />
+arr[] = {1,1,2,2,3,3,4,5,6,7}<br />
+Output: 4 5 6 7
+
+Input:<br />
+n = 5<br />
+arr[] = {10,20,40,30,10}<br />
+Output: 20 40 30
+
+Expected Time Complexity: O(n)<br />
+Expected Auxiliary Space: O(n).
+
+Constraints:<br />
+1 <= n <= 10^3<br />
+0 <= arr_i <= 10^7
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day50(non_repeated).py)
