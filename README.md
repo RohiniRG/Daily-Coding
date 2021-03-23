@@ -1312,3 +1312,7 @@ Constraints:<br />
 0 <= arr_i <= 10^7
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day50(non_repeated).py)
+
+
+## Day 51
+### Problem Statement: Zero Sum Subarray
