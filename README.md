@@ -1313,7 +1313,6 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day50(non_repeated).py)
 
-
 ## Day 51
 ### Problem Statement: Zero Sum Subarray
 You are given an array arr[] of size n. Find the total count of sub-arrays having their sum equal to 0. <br />
@@ -1335,7 +1334,6 @@ Output: 4 <br />
 Explanation: The 4 subarrays are [-1 -3 4]
 [-2 2], [2 4 6 -12], and [-1 -3 4 -2 2]
 
-
 Expected Time Complexity : O(n) <br />
 Expected Auxilliary Space : O(n)
  
@@ -1345,3 +1343,32 @@ Constraints:     <br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day51(Zero_subarray).py)
 
+## Day 52
+### Problem Statement: Top K frequency
+Given a non-empty array of integers, find the top k elements which have the highest frequency in the array. 
+If two numbers have the same frequency then the larger number should be given preference. <br />
+https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/
+
+**Examples:** <br />
+
+Input: <br />
+nums = {1,1,1,2,2,3}<br />
+k = 2<br />
+Output: {1, 2}
+
+Input: <br />
+nums = {1,1,2,2,3,3,3,4}<br />
+k = 2<br />
+Output: {3, 2}<br />
+Explanation: Elements 1 and 2 have the same frequency ie. 2. 
+Therefore, in this case, the answer includes the element 2 as 2 > 1.
+
+
+Expected Time Complexity : O(NlogN)<br />
+Expected Auxilliary Space : O(N)
+
+Constraints:<br />
+1 <= N <= 10^3<br />
+1<=A[i]<=10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day52(TopK_freq).py)
