@@ -1316,3 +1316,32 @@ Constraints:<br />
 
 ## Day 51
 ### Problem Statement: Zero Sum Subarray
+You are given an array arr[] of size n. Find the total count of sub-arrays having their sum equal to 0. <br />
+https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
+
+**Examples:** <br />
+
+Input: <br />
+n = 6 <br />
+arr[] = {0,0,5,5,0,0} <br />
+Output: 6 <br />
+Explanation: The 6 subarrays are 
+[0], [0], [0], [0], [0,0], and [0,0]. 
+
+Input: <br />
+n = 10 <br />
+arr[] = {6,-1,-3,4,-2,2,4,6,-12,-7} <br />
+Output: 4 <br />
+Explanation: The 4 subarrays are [-1 -3 4]
+[-2 2], [2 4 6 -12], and [-1 -3 4 -2 2]
+
+
+Expected Time Complexity : O(n) <br />
+Expected Auxilliary Space : O(n)
+ 
+Constraints:     <br />
+1<= n <= 10^7 <br />
+-10^10 <= arr_i <= 10^10
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day51(Zero_subarray).py)
+
