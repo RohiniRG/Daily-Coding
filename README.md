@@ -1372,3 +1372,30 @@ Constraints:<br />
 1<=A[i]<=10^4
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day52(TopK_freq).py)
+
+## Day 53
+### Problem Statement: Relative Sorting
+Given two integer arrays A1[ ] and A2[ ] of size N and M respectively. 
+Sort the first array A1[ ] such that all the relative positions of the elements in the first array are the same 
+as the elements in the second array A2[ ].
+https://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/
+
+**Examples:** <br />
+Input: N = 11 M = 4 <br />
+A1[] = {2, 1, 2, 5, 7, 1, 9, 3, 6, 8, 8}<br />
+A2[] = {2, 1, 8, 3}<br />
+Output: 2 2 1 1 8 8 3 5 6 7 9
+
+Input: N = 11  M = 4<br />
+A1[] = {2, 1, 2, 5, 7, 1, 9, 3, 6, 8, 8}<br />
+A2[] = {99, 22, 444, 56}<br />
+Output: 1 1 2 2 3 5 6 7 8 8 9
+
+Expected Time Complexity : O(NlogN)<br />
+Expected Auxilliary Space : O(N)
+
+Constraints:<br />
+1 ≤ N, M ≤ 10^6<br />
+1 ≤ A1[i], A2[i] ≤ 10^6
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day53(Relative_sort).py)
