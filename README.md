@@ -1377,7 +1377,7 @@ Constraints:<br />
 ### Problem Statement: Relative Sorting
 Given two integer arrays A1[ ] and A2[ ] of size N and M respectively. 
 Sort the first array A1[ ] such that all the relative positions of the elements in the first array are the same 
-as the elements in the second array A2[ ].
+as the elements in the second array A2[ ].<br />
 https://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/
 
 **Examples:** <br />
@@ -1399,3 +1399,27 @@ Constraints:<br />
 1 ≤ A1[i], A2[i] ≤ 10^6
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day53(Relative_sort).py)
+
+## Day 54
+### Problem Statement: Largest subarray with 0 sum
+Given an array having both positive and negative integers. 
+The task is to compute the length of the largest subarray with sum 0.<br />
+https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
+
+**Examples:** <br />
+
+Input:<br />
+N = 8<br />
+A[] = {15,-2,2,-8,1,7,10,23}<br />
+Output: 5<br />
+Explanation: The largest subarray with
+sum 0 will be -2 2 -8 1 7.
+
+Expected Time Complexity : O(NlogN)<br />
+Expected Auxilliary Space : O(N)<br />
+
+Constraints:<br />
+1 <= N <= 10^4<br />
+-1000 <= A[i] <= 1000, for each valid i
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day54(Largest_0sum).py)
