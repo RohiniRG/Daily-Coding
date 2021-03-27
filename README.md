@@ -1423,3 +1423,32 @@ Constraints:<br />
 -1000 <= A[i] <= 1000, for each valid i
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day54(Largest_0sum).py)
+
+## Day 55
+### Problem Statement: Four Sum
+Given an array of integers, find anyone combination of four elements in the array whose sum is equal to a given value X.<br />
+https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/
+
+**Examples:** <br />
+
+Input: array = {10, 2, 3, 4, 5, 9, 7, 8} <br />
+       X = 23 <br />
+Output: 3 5 7 8 <br />
+Sum of output is equal to 23, 
+i.e. 3 + 5 + 7 + 8 = 23.
+
+Input: array = {1, 2, 3, 4, 5, 9, 7, 8}<br />
+       X = 16 <br />
+Output: 1 3 5 7<br />
+Sum of output is equal to 16, 
+i.e. 1 + 3 + 5 + 7 = 16.
+
+Expected Time Complexity: O(N^3).<br />
+Expected Auxiliary Space: O(N^2).<br />
+
+Constraints:<br />
+1 <= N <= 100<br />
+-1000 <= K <= 1000<br />
+-100 <= A[i] <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day55(Four_sum).py)
