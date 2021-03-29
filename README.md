@@ -1476,3 +1476,23 @@ Expected Auxiliary Space: O(N).<br />
 Constraints:<br />
 1 <= N <= K <= 10^5<br />
 1 <= A[i] <= 10^5 , for each valid i
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day56(Window_freq).py)
+
+## Day 57
+### Problem Statement: Print Linked List elements
+Given a linked list. Print all the elements of the linked list
+
+**Examples:** <br />
+
+Input: N = 2 <br />
+LinkedList= {1 , 2} <br />
+Output: 1 2
+
+Expected Time Complexity : O(N)<br />
+Expected Auxiliary Space : O(1)
+ 
+Constraints :<br />
+1 <= N <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day57(Print_LL).cpp)
