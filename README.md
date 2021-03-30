@@ -1496,3 +1496,23 @@ Constraints :<br />
 1 <= N <= 100
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day57(Print_LL).cpp)
+
+## Day 58
+### Problem Statement: Reverse Linked List
+Given a linked list of N nodes. The task is to reverse this list.<br />
+https://www.geeksforgeeks.org/reverse-a-linked-list/
+
+**Examples:** <br />
+
+Input:<br />
+LinkedList: 1->2->3->4->5->6<br />
+Output: 6 5 4 3 2 1<br />
+Explanation: After reversing the list, elements are 6->5->4->3->2->1
+
+Expected Time Complexity: O(N).<br />
+Expected Auxiliary Space: O(1).
+
+Constraints:<br />
+1 <= N <= 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day58(Reverse_LL).cpp)
