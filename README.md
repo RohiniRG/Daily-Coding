@@ -1516,3 +1516,25 @@ Constraints:<br />
 1 <= N <= 10^4
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day58(Reverse_LL).cpp)
+
+## Day 59
+### Problem Statement: Occurence of an integer in a Linked List
+Given a singly linked list and a key, count the number of occurrences of given key in the linked list.<br />
+https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/
+
+**Examples:** <br />
+
+Input:<br />
+N = 7<br />
+Link List = 1->2->1->2->1->3->1<br />
+search_for = 1<br />
+Output: 4<br />
+Explanation:1 appears 4 times.
+
+Expected Time Complexity: O(N).<br />
+Expected Auxiliary Space: O(1).
+
+Constraints:<br />
+1 <= N <= 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day59(Integer_count).cpp)
