@@ -1538,3 +1538,26 @@ Constraints:<br />
 1 <= N <= 10^4
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day59(Integer_count).cpp)
+
+## Day 60
+### Problem Statement: Pairwise swapping
+Given a singly linked list of size N. The task is to swap elements in the linked list pairwise.<br />
+https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list-by-changing-links/
+
+**Examples:** <br />
+
+Input:<br />
+LinkedList: 1->3->4->7->9->10->1<br />
+Output: 3 1 7 4 10 9 1<br />
+Explanation: After swapping each pair
+considering (1,3), (4, 7), (9, 10).. so
+on as pairs, we get 3, 1, 7, 4, 10, 9,
+1 as a new linked list.
+
+Expected Time Complexity: O(N).<br />
+Expected Auxiliary Space: O(1).
+
+Constraints:<br />
+1 ≤ N ≤ 10^3
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day60(Pairwise_swap).cpp)
