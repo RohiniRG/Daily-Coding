@@ -1589,3 +1589,4 @@ Constraints:
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day61(Adding_LL).cpp)
 
 ## Day 62
+Write a function to insert a new value in a sorted Circular Linked List (CLL)
