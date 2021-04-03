@@ -1563,3 +1563,29 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day60(Pairwise_swap).cpp)
 
 ## Day 61
+Given two numbers represented by two linked lists of size N and M. 
+The task is to return a sum list. 
+The sum list is a linked list representation of the addition of two input numbers.<br />
+https://www.geeksforgeeks.org/sum-of-two-linked-lists/
+
+**Examples:** <br />
+
+Input: N = 2<br />
+valueN[] = {4,5}<br />
+M = 3<br />
+valueM[] = {3,4,5}<br />
+Output: 3 9 0  <br />
+Explanation: For the given two linked
+list (4 5) and (3 4 5), after adding
+the two linked list resultant linked
+list will be (3 9 0)
+
+Expected Time Complexity: O(N+M)<br />
+Expected Auxiliary Space: O(Max(N,M))
+
+Constraints:
+1 <= N, M <= 5000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day61(Adding_LL).cpp)
+
+## Day 62
