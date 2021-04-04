@@ -1590,3 +1590,25 @@ Constraints:
 
 ## Day 62
 Write a function to insert a new value in a sorted Circular Linked List (CLL)
+Given a sorted circular linked list, the task is to insert a new node in this circular list 
+so that it remains a sorted circular linked list.<br />
+https://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/
+
+**Examples:** <br />
+
+Input:
+LinkedList = 1->2->4
+(the first and last node is connected,
+i.e. 4 --> 1)<br />
+data = 2<br />
+Output: 1 2 2 4
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(1)
+
+Constraints:
+0 <= N <= 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day62(Sorted_CLL).cpp)
+
+## Day 63
