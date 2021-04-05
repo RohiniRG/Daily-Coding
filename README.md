@@ -1612,3 +1612,49 @@ Constraints:
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day62(Sorted_CLL).cpp)
 
 ## Day 63
+Given a Cirular Linked List of size N, split it into two halves circular lists. 
+If there are odd number of nodes in the given circular linked list then out of the resulting two halved lists, 
+first list should have one node more than the second list. 
+The resultant lists should also be circular lists and not linear lists. <br />
+https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/
+
+**Examples:** <br />
+
+Input:
+Circular LinkedList: 1->5->7 <br />
+Output: <br />
+1 5 <br />
+7
+
+Expected Time Complexity: O(N) <br />
+Expected Auxilliary Space: O(1)
+
+Constraints:
+1 <= N <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day63(Split_CLL).cpp)
+
+## Day 64
+Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list.<br />
+https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
+
+**Examples:** <br />
+
+Input:
+LinkedList: 1->2->2->4->5->6->7->8
+K = 4<br />
+Output: 4 2 2 1 8 7 6 5 <br />
+Explanation: 
+The first 4 elements 1,2,2,4 are reversed first 
+and then the next 4 elements 5,6,7,8. Hence, the 
+resultant linked list is 4->2->2->1->8->7->6->5.
+
+Expected Time Complexity: O(N)<br />
+Expected Auxilliary Space: O(1)
+
+Constraints:<br />
+1 <= N <= 10⁴<br />
+1 <= k <= N
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day64(Reverse_LL).cpp)
+
