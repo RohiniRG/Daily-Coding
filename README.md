@@ -1658,3 +1658,30 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day64(Reverse_LL).cpp)
 
+## Day 65
+Given a linked list of N nodes. The task is to check if the linked list has a loop. Linked list can contain self loop.<br />
+https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
+
+**Examples:** <br />
+
+Input:<br />
+N = 3<br />
+value[] = {1,3,4}<br />
+x = 2<br />
+Output: True<br />
+Explanation: In above test case N = 3.
+The linked list with nodes N = 3 is
+given. Then value of x=2 is given which
+means last node is connected with xth
+node of linked list. Therefore, there
+exists a loop.
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(1)
+
+Constraints:<br />
+1 <= N <= 10^4<br />
+1 <= Data on Node <= 10^3
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day65(Check_loops).cpp)
+
