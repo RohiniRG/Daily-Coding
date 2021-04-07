@@ -1685,3 +1685,23 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day65(Check_loops).cpp)
 
+## Day 66
+Given two singly linked lists of size N and M, write a program to get the point where two linked lists intersect each other.<br />
+https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+
+**Examples:** <br />
+
+Input:<br />
+LinkList1 = 3->6->9->common <br />
+LinkList2 = 10->common <br />
+common = 15->30->NULL <br />
+Output: 15
+
+Expected Time Complexity: O(N+M)<br />
+Expected Auxiliary Space: O(1)
+
+Constraints:<br />
+1 ≤ N + M ≤ 2*10^5<br />
+-1000 ≤ value ≤ 1000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day66(Intersection_LL).cpp)
