@@ -1722,3 +1722,28 @@ Constraints:<br />
 1 <= value <= 1000
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day67(Delete_mid).cpp)
+
+## Day 68
+You are given a special linked list with N nodes where each node has a next pointer pointing to its next node. 
+You are also given M random pointers , where you will be given M number of pairs denoting two nodes a and b  
+i.e. a->arb = b.<br />
+https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/
+
+**Examples:** <br />
+
+Input:
+N = 4, M = 2<br />
+value = {1,2,3,4}<br />
+pairs = {{1,2},{2,4}}<br />
+Output: 1
+
+Expected Time Complexity : O(n)<br />
+Expected Auxilliary Space : O(1)
+
+Constraints:<br />
+1 <= N <= 100<br />
+1 <= M <= N<br />
+1 <= a, b <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day68(Clone_LL).cpp)
+
