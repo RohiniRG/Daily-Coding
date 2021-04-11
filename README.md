@@ -1749,4 +1749,24 @@ Constraints:<br />
 
 # Day 69
 
-# Day 70
+## Day 70
+Given a Cirular Linked List of size N, split it into two halves circular lists. 
+If there are odd number of nodes in the given circular linked list then out of the resulting two halved lists, 
+first list should have one node more than the second list. 
+The resultant lists should also be circular lists and not linear lists.<br />
+https://www.geeksforgeeks.org/deletion-at-different-positions-in-a-circular-linked-list/
+
+**Examples:** <br />
+
+LinkedList: 1->2->3->4->5 <br />
+position: 4 <br />
+Output: 1 2 3 5
+
+Expected Time Complexity: O(n).<br />
+Expected Auxiliary Space: O(1).
+
+Constraints:<br />
+2 <= number of nodes <= 10^3<br />
+1 <= pos <= n
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day70(Delete_CLL).cpp)
