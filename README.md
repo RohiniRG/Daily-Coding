@@ -1770,3 +1770,5 @@ Constraints:<br />
 1 <= pos <= n
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day70(Delete_CLL).cpp)
+
+## Day 71
