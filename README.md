@@ -1787,3 +1787,21 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day70(Delete_CLL).cpp)
 
 ## Day 71
+Sort the given doubly linked list of size N using quicksort. 
+Just complete the partition function using the quicksort technique.<br />
+https://www.geeksforgeeks.org/quicksort-for-linked-list/ 
+
+**Examples:** <br />
+
+Input:
+LinkedList: 4->2->9<br />
+Output:2 4 9
+
+Expected Time Complexity: O(NlogN)<br />
+Expected Auxilliary Space: O(1) 
+
+Constraints:
+1 <= N <= 200
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day71(Quick_sort_DLL).cpp)
+
