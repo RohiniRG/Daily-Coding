@@ -1748,6 +1748,19 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day68(Clone_LL).cpp)
 
 # Day 69
+Sort the given Linked List using quicksort. which takes O(n^2) time in worst case and O(nLogn) in average and best cases.<br />
+https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/
+
+**Examples:** <br />
+
+Input:
+1 6 2<br />
+Output:
+1 2 6
+
+Constraints:<br />
+1<=T<=100<br />
+1<=N<=200
 
 ## Day 70
 Given a Cirular Linked List of size N, split it into two halves circular lists. 
