@@ -1762,6 +1762,8 @@ Constraints:<br />
 1<=T<=100<br />
 1<=N<=200
 
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day69(Quick_sort).cpp)
+
 ## Day 70
 Given a Cirular Linked List of size N, split it into two halves circular lists. 
 If there are odd number of nodes in the given circular linked list then out of the resulting two halved lists, 
