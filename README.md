@@ -1830,3 +1830,21 @@ Constraints:
 1 <= N <= 103
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day72(Delete_without_head).cpp)
+
+## Day 72
+Given Pointer/Reference to the head of a doubly linked list of N nodes, 
+the task is to Sort the given doubly linked list using Merge Sort in both non-decreasing and non-increasing order.<br />
+https://www.geeksforgeeks.org/merge-sort-for-doubly-linked-list/
+
+**Examples:** <br />
+
+Input: N = 8<br />
+value[] = {7,3,5,2,6,4,1,8}<br />
+Output:<br />
+1 2 3 4 5 6 7 8<br />
+8 7 6 5 4 3 2 1
+
+Constraints:
+1 <= N <= 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day73(Merge_sort_DLL).cpp)
