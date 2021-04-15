@@ -1831,7 +1831,7 @@ Constraints:
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day72(Delete_without_head).cpp)
 
-## Day 72
+## Day 73
 Given Pointer/Reference to the head of a doubly linked list of N nodes, 
 the task is to Sort the given doubly linked list using Merge Sort in both non-decreasing and non-increasing order.<br />
 https://www.geeksforgeeks.org/merge-sort-for-doubly-linked-list/
@@ -1848,3 +1848,20 @@ Constraints:
 1 <= N <= 10^5
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day73(Merge_sort_DLL).cpp)
+
+## Day 74
+You are given a string S, the task is to reverse the string using stack.<br />
+https://www.geeksforgeeks.org/stack-set-3-reverse-string-using-stack/
+
+**Examples:** <br />
+
+Input: S="GeeksforGeeks"<br />
+Output: skeeGrofskeeG
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(N)
+
+Constraints:
+1 ≤ length of the string ≤ 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day74(Reverse_stack).cpp)
