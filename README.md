@@ -1865,3 +1865,27 @@ Constraints:
 1 ≤ length of the string ≤ 100
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day74(Reverse_stack).cpp)
+
+## Day 75
+The task is to find the next greater element for each element of the array in order of their appearance in the array.<br />
+https://www.geeksforgeeks.org/next-greater-element-in-same-order-as-input/
+
+**Examples:** <br />
+
+Input: 
+N = 4, arr[] = [1 3 2 4]<br />
+Output:
+3 4 4 -1<br />
+Explanation:
+In the array, the next larger element 
+to 1 is 3 , 3 is 4 , 2 is 4 and for 4  
+since it doesn't exist, it is -1.
+
+Expected Time Complexity : O(N)<br />
+Expected Auxilliary Space : O(N)
+
+Constraints:<br />
+1 ≤ N ≤ 10^6<br />
+1 ≤ Ai ≤ 10^18
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day75(Next_greatest).cpp)
