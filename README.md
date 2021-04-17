@@ -1891,5 +1891,22 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day75(Next_greatest).cpp)
 
 ## Day 76
-Design a data-structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack data-Structure.
+Design a data-structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack data-Structure.<br />
+https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/
 
+**Examples:** <br />
+
+Input:
+Stack: 18 19 29 15 16<br />
+Output: 15<br />
+Explanation:
+The minimum element of the stack is 15.
+
+Expected Time Complexity : O(1) for all the 3 methods.<br />
+Expected Auixilliary Space : O(1) for all the 3 methods.
+
+Constraints:<br />
+1 <= Number of queries <= 100<br />
+1 <= values of the stack <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day76(Get_min).cpp)
