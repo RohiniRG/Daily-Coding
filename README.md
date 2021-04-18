@@ -1910,3 +1910,23 @@ Constraints:<br />
 1 <= values of the stack <= 100
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day76(Get_min).cpp)
+
+## Day 77
+Given string S representing a postfix expression, the task is to evaluate the expression and find the final value. 
+Operators will only include the basic arithmetic operators like *, /, + and -.
+
+**Examples:** <br />
+
+Input: S = "231*+9-" <br />
+Output: -4 <br />
+Explanation:
+After solving the given expression, 
+we have -4 as result.
+
+Expected Time Complexity: O(|S|)<br />
+Expected Auixilliary Space: O(|S|)
+
+Constraints:
+1 ≤ |S| ≤ 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day77(Postfix).cpp)
