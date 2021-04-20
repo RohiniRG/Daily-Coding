@@ -1954,4 +1954,15 @@ the max size rectangle is <br />
 1 1 1 1<br />
 and area is 4 * 2 = 8.<br />
 
+
+Expected Time Complexity : O(n*m)<br />
+Expected Auixiliary Space : O(m)
+
+Constraints:<br />
+1<=n,m<=1000<br />
+0<=M[][]<=1
+
+
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day78(Max_rect).cpp)
+
+## Day 79
