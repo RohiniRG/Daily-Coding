@@ -1966,3 +1966,19 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day78(Max_rect).cpp)
 
 ## Day 79
+Given a stack, the task is to sort it such that the top of the stack has the greatest element.<br />
+https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
+
+**Examples:** <br />
+
+Input:
+Stack: 3 2 1<br />
+Output: 3 2 1
+
+Expected Time Complexity : O(N*N)v
+Expected Auixilliary Space : O(N) recursive.
+
+Constraints:
+1<=N<=100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day79(Sort_stack).cpp)
