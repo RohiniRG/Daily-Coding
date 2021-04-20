@@ -1932,3 +1932,26 @@ Constraints:
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day77(Postfix).cpp)
 
 ## Day 78
+Given a binary matrix. Find the maximum area of a rectangle formed only of 1s in the given matrix.
+
+**Examples:** <br />
+
+Input:
+n = 4, m = 4<br />
+M[][] = {{0 1 1 0},<br />
+         {1 1 1 1},<br />
+         {1 1 1 1},<br />
+         {1 1 0 0}}<br />
+Output: 8<br />
+Explanation: For the above test case the
+matrix will look like<br />
+0 1 1 0<br />
+1 1 1 1<br />
+1 1 1 1<br />
+1 1 0 0<br />
+the max size rectangle is <br />
+1 1 1 1<br />
+1 1 1 1<br />
+and area is 4 * 2 = 8.<br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day78(Max_rect).cpp)
