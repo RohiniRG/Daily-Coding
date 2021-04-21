@@ -1982,3 +1982,26 @@ Constraints:
 1<=N<=100
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day79(Sort_stack).cpp)
+
+## Day 80
+Find the largest rectangular area possible in a given histogram where the largest rectangle can be 
+made of a number of contiguous bars. For simplicity, assume that all bars have the same width and the width is 1 unit.<br />
+https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+
+Input:
+N = 8<br />
+arr[] = {7 2 8 9 1 3 6 5}<br />
+Output: 16<br />
+Explanation: Maximum size of the histogram 
+will be 8  and there will be 2 consecutive 
+histogram. And hence the area of the 
+histogram will be 8x2 = 16.
+
+Expected Time Complxity : O(N)<br />
+Expected Auxilliary Space : O(N)
+
+Constraints:<br />
+1 <= N <= 10^6<br />
+1 <= arr[i] <= 10^12
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day80(Max_area_hist).cpp)
