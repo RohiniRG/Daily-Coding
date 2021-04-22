@@ -1988,6 +1988,8 @@ Find the largest rectangular area possible in a given histogram where the larges
 made of a number of contiguous bars. For simplicity, assume that all bars have the same width and the width is 1 unit.<br />
 https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
 
+**Examples:** <br />
+
 Input:
 N = 8<br />
 arr[] = {7 2 8 9 1 3 6 5}<br />
@@ -2005,3 +2007,20 @@ Constraints:<br />
 1 <= arr[i] <= 10^12
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day80(Max_area_hist).cpp)
+
+## Day 81
+Given an expression string x. Examine whether the pairs and the orders of brackets are correct in exp.<br />
+https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+
+**Examples:** <br />
+Input: exp = “[()]{}{[()()]()}” <br />
+Output: Balanced
+
+Time Complexity: O(n)  <br />
+Auxiliary Space: O(n) for stack. 
+
+Constraints: <br />
+1 ≤ |x| ≤ 32000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day81().cpp)
+
