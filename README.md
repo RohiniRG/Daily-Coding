@@ -2025,5 +2025,22 @@ Constraints: <br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day81(Bracket_check).cpp)
 
 ## Day 82
+Given an integer array. The task is to find the maximum of the minimum of every window size in the array.<br />
+https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/
+
+**Examples:** <br />
+
+Input: N = 7<br />
+arr[] = {10,20,30,50,10,70,30}<br />
+Output: 70 30 20 10 10 10 10 
+
+Expected Time Complxity : O(N)<br />
+Expected Auxilliary Space : O(N)
+
+Constraints:<br />
+1 <= N <= 10^5<br />
+1 <= arr[i] <= 10^6
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day82(Max_min_window).cpp)
 
 ## Day 83
