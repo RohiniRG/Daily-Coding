@@ -2044,3 +2044,62 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day82(Max_min_window).cpp)
 
 ## Day 83
+The stock span problem is a financial problem where we have a series of n daily price quotes 
+for a stock and we need to calculate the span of stock’s price for all n days. 
+The span Si of the stock’s price on a given day i is defined as the maximum number of consecutive days
+just before the given day, for which the price of the stock on the current day is less than or equal to its price on the given day.
+For example, if an array of 7 days prices is given as {100, 80, 60, 70, 60, 75, 85},
+then the span values for corresponding 7 days are {1, 1, 1, 2, 1, 4, 6}.<br />
+https://www.geeksforgeeks.org/the-stock-span-problem/
+
+Expected Time Complexity: O(N).<br />
+Expected Auxiliary Space: O(N).
+
+Constraints:<br />
+1 ≤ N ≤ 10^5<br />
+1 ≤ C[i] ≤ 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day83(Stock_span).cpp)
+
+## Day 84:
+Given an infix expression in the form of string str. Convert this infix expression to postfix expression.<br />
+https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
+
+**Examples:** <br />
+
+Input: str = "a+b*(c^d-e)^(f+g*h)-i" <br />
+Output: abcd^e-fgh*+^*+i- <br />
+Explanation:
+After converting the infix expression 
+into postfix expression, the resultant 
+expression will be abcd^e-fgh*+^*+i-
+
+Expected Time Complexity: O(|str|). <br />
+Expected Auxiliary Space: O(|str|).
+
+Constraints:
+1 ≤ |str| ≤ 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day84(Infix_postfix).cpp)
+
+## Day 85
+Given a number N. The task is to generate and print all binary numbers with decimal values from 1 to N.<br />
+https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
+
+**Examples:** <br />
+
+Input:
+N = 2<br />
+Output: 
+1 10<br />
+Explanation: 
+Binary numbers from
+1 to 2 are 1 and 10.
+
+Expected Time Complexity : O(N log2N)<br />
+Expected Auxilliary Space : O(N log2N)
+
+Constraints:
+1 ≤ N ≤ 10^6
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day85(Generate_bin).cpp)
