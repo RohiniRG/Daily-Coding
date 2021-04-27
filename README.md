@@ -2103,3 +2103,14 @@ Constraints:
 1 ≤ N ≤ 10^6
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day85(Generate_bin).cpp)
+
+## Day 86
+Given an array arr[] of size N, enqueue the elements of the array into a queue and then dequeue them.
+
+Expected time complexity: O(n)<br />
+Expected space complexity: O(n)
+
+Constraints:
+1 <= Ai <= 10^7
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day86(Pop_push).cpp)
