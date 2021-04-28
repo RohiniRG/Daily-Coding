@@ -2114,3 +2114,26 @@ Constraints:
 1 <= Ai <= 10^7
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day86(Pop_push).cpp)
+
+## Day 87
+Implement a Stack using two queues q1 and q2.<br />
+https://www.geeksforgeeks.org/implement-stack-using-queue/
+
+**Examples:** <br />
+
+Input:<br />
+push(2)<br />
+push(3)<br />
+pop()<br />
+push(4)<br />
+pop()<br />
+Output: 3 4<br />
+
+Expected Time Complexity: O(1) for push() and O(N) for pop() (or vice-versa).<br />
+Expected Auxiliary Space: O(1) for both push() and pop().
+
+Constraints:<br />
+1 <= Number of queries <= 100<br />
+1 <= values of the stack <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day87(Stack_using_Qs).cpp)
