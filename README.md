@@ -2137,3 +2137,5 @@ Constraints:<br />
 1 <= values of the stack <= 100
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day87(Stack_using_Qs).cpp)
+
+## Day 88
