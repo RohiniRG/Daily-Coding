@@ -2139,5 +2139,11 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day87(Stack_using_Qs).cpp)
 
 ## Day 88
+Given size of a queue and Q query. The task is to perform operations according to the 
+type of query. Queries can be of following types:
+    1) 1 element: This means push the element into the queue (allowed only when queue is not full).
+    2) 2: This means pop the element at front from the queue (allowed only when queue is not empty).
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day88(Circular_array_Q).cpp)
 
 ## Day 89
