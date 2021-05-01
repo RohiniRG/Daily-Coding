@@ -2147,3 +2147,23 @@ type of query. Queries can be of following types:
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day88(Circular_array_Q).cpp)
 
 ## Day 89
+Given an integer K and a queue of integers, we need to reverse the order of the first K elements of the queue,
+leaving the other elements in the same relative order.
+
+**Examples:** <br />
+
+Input:<br />
+5 3<br />
+1 2 3 4 5<br />
+Output: <br />
+3 2 1 4 5
+
+Expected TIme Complexity : O(n)<br />
+Expected Auxilliary Space : O(n)<br />
+
+Constraints:<br />
+1 <= N <= 1000<br />
+1 <= K <= N
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day89(Reverse_Q).cpp)
+
