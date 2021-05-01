@@ -2167,3 +2167,15 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day89(Reverse_Q).cpp)
 
+## Day 90
+Implement a Queue using 2 stacks s1 and s2 .
+https://www.geeksforgeeks.org/queue-using-stacks/
+
+Expected Time Complexity : O(1) for push() and O(N) for pop() or O(N) for push() and O(1) for pop()  <br />
+Expected Auxilliary Space : O(1).<br />
+
+Constraints:<br />
+1 <= Q <= 100<br />
+1 <= x <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day90(Q_using_stack).cpp)
