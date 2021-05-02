@@ -2179,3 +2179,26 @@ Constraints:<br />
 1 <= x <= 100
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day90(Q_using_stack).cpp)
+
+## Day 91
+Given an array arr[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K.<br />
+https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/
+
+**Examples:** <br />
+
+Input:<br />
+N = 9, K = 3<br />
+arr[] = 1 2 3 1 4 5 2 3 6<br />
+Output: <br />
+3 3 4 5 5 5 6 
+
+Expected Time Complexity: O(N) <br />
+Expected Auxiliary Space: O(N)
+
+Constraints: <br />
+1 ≤ N ≤ 10^7 <br />
+1 ≤ K ≤ N <br />
+0 ≤ arr[i] <= 10^7
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day91(Max_window).cpp)
+
