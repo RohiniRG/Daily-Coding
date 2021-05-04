@@ -2215,3 +2215,27 @@ Constraints:<br />
 1 <= Knight_pos(X, Y), Targer_pos(X, Y) <= N
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day92(Minimum_moves).cpp)
+
+## Day 93
+Given two sorted arrays of distinct elements. 
+There is only 1 difference between the arrays. 
+First array has one element extra added in between. 
+Find the index of the extra element.<br />
+https://www.geeksforgeeks.org/find-index-of-an-extra-element-present-in-one-sorted-array/
+
+**Examples:** <br />
+
+Input:<br />
+N = 6<br />
+A[] = {3,5,7,9,11,13}<br />
+B[] = {3,5,7,11,13}<br />
+Output: 3
+
+Expected Time Complexity: O(log N).
+Expected Auxiliary Space: O(1).
+
+Constraints:
+2<=N<=10^4
+1<=Ai<=10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day93(Diff_index).py)
