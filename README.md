@@ -2203,3 +2203,15 @@ Constraints: <br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day91(Max_window).cpp)
 
 ## Day 92
+Given a square chessboard of N x N size, the position of Knight and position of a target is given. 
+We need to find out the minimum steps a Knight will take to reach the target position.<br />
+https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/
+
+Expected Time Complexity: O(N2).<br />
+Expected Auxiliary Space: O(N2).<br />
+
+Constraints:<br />
+1 <= N <= 1000<br />
+1 <= Knight_pos(X, Y), Targer_pos(X, Y) <= N
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day92(Minimum_moves).cpp)
