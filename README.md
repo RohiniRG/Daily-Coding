@@ -2241,6 +2241,23 @@ Constraints:
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day93(Diff_index).py)
 
 ## Day 94
+Given a matrix mat[][] of n rows and m columns, consisting of 0’s and 1’s. 
+The task is to complete the function findPerimeter which returns an integer denoting the perimeter of sub-figures consisting of only 1’s in the matrix.<br />
+https://www.geeksforgeeks.org/find-perimeter-shapes-formed-1s-binary-matrix/
+
+**Examples:** <br />
+
+Input : mat[][] = <br />
+               {<br />
+                 1, 0,<br />
+                 1, 1,<br />
+               }<br />
+Output : 8<br />
+Cell (1,0) and (1,1) making a L shape whose perimeter is 8.
+
+Constraints:<br />
+1<=T<=100<br />
+1<=n, m<=20
 
 ## Day 95
 
