@@ -2302,3 +2302,20 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day96(LL_even_odd).cpp)
 
+## Day 97
+Given a string str and another string patt. 
+Find the character in patt that is present at the minimum index in str.<br />
+https://www.geeksforgeeks.org/find-character-first-string-present-minimum-index-second-string/
+
+**Examples:** <br />
+Input: str = "zsyle", patt = "bjz"<br />
+Output: "z"
+
+Expected Time Complexity: O(max(|str|, |patt|))<br />
+Expected Auxilary Space: O(K) where K <= 26
+ 
+Constraints:<br />
+1 ≤ |str|, |patt| ≤ 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day97(Min_index_ch).py)
+
