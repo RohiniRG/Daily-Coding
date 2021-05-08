@@ -2283,3 +2283,22 @@ Constraints:<br />
 1<=X<=10000
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day95(LL_pairsum).cpp)
+
+## Day 96
+Given a linked list, task is to make a function which check whether the length of linked list is even or odd.<br />
+https://www.geeksforgeeks.org/check-whether-the-length-of-given-linked-list-is-even-or-odd/
+
+**Examples:** <br />
+Input : 1->2->3->4->NULL<br />
+Output : Even
+
+Time Complexity: O(n)<br />
+Space Complexity: O(1)
+
+Constraints:<br />
+1 <= T <= 100<br />
+1 <= N <= 10^3<br />
+1 <= A[i] <= 10^3
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day96(LL_even_odd).cpp)
+
