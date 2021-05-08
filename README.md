@@ -2259,5 +2259,27 @@ Constraints:<br />
 1<=T<=100<br />
 1<=n, m<=20
 
-## Day 95
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day94(Mat_perimeter).py)
 
+## Day 95
+Given two linked lists(can be sorted or unsorted) of size n1 and n2 of distinct elements. Given a value x. 
+The problem is to count all pairs from both lists whose sum is equal to the given value x.
+Note: The pair has an element from each linked list.<br />
+https://www.geeksforgeeks.org/count-pairs-two-linked-lists-whose-sum-equal-given-value/
+
+**Examples:** <br />
+
+Input : list1 = 3->1->5->7<br />
+        list2 = 8->2->5->3<br />
+        x = 10<br />
+Output : 2<br />
+The pairs are: (5, 5) and (7, 3)<br />
+
+Expected Time Complexity: O(N+M)<br />
+Expected Auxiliary Space: O(N+M)
+
+Constraints:<br />
+1<=size of linked list<=10000<br />
+1<=X<=10000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day95(LL_pairsum).cpp)
