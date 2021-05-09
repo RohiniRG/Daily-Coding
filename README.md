@@ -2319,3 +2319,24 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day97(Min_index_ch).py)
 
+## Day 98
+Given a Binary Tree of size N , You have to count leaves in it.<br /> 
+https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/
+
+**Examples:** <br />
+Input: <br />
+Given Tree is <br /> 
+               4 <br />
+             /   \ <br />
+            8     10 <br />
+           /     /   \ <br />
+          7     5     1 <br />
+         / <br />
+        3  <br />
+Output: <br />
+3
+
+Constraints: <br />
+1<= N <= 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day98(Leaf_count).cpp)
