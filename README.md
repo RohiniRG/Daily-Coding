@@ -2327,3 +2327,5 @@ Constraints: <br />
 1<= N <= 10^4
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day98(Leaf_count).cpp)
+
+## Day 99
