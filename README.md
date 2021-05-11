@@ -2329,3 +2329,17 @@ Constraints: <br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day98(Leaf_count).cpp)
 
 ## Day 99
+Given a Binary Tree, find Right view of it. 
+Right view of a Binary Tree is set of nodes visible when tree is viewed from right side.<br /> 
+https://www.geeksforgeeks.org/right-view-binary-tree-using-queue/
+
+Expected Time Complexity: O(N).<br /> 
+Expected Auxiliary Space: O(Height of the Tree).<br /> 
+
+Constraints:<br /> 
+1 <= Number of nodes <= 10^5<br /> 
+1 <= Data of a node <= 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day99(Right_view_bt).cpp)
+
+
