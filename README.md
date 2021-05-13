@@ -2368,3 +2368,5 @@ Constraints: <br />
 1 <= Data of a node <= 1000
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day101(Diameter_tree).cpp)
+
+## Day 102
