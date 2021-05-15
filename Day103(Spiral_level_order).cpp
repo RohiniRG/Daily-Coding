@@ -22,7 +22,7 @@ vector<int> findSpiral(Node *root)
             if (temp->left) stk2.push(temp->left);
         }
         
-        while (!stk1.empty()){
+        while (!stk2.empty()){
             Node *temp = stk2.top();
             vec.push_back(temp->data);
             stk2.pop();
