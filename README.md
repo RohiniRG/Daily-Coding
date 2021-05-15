@@ -2370,5 +2370,16 @@ Constraints: <br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day101(Diameter_tree).cpp)
 
 ## Day 102
+Given a Binary Tree, find diameter of it.
+The diameter of a tree is the number of nodes on the longest path between two end nodes in the tree. <br /> 
+https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-sumtree/
+
+Expected Time Complexity: O(N)<br /> 
+Expected Auxiliary Space: O(Height of the Tree)
+
+Constraints:<br /> 
+1 ≤ number of nodes ≤ 10^4 
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day102(Sum_tree).cpp)
 
 ## Day 103
