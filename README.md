@@ -2393,5 +2393,18 @@ Constraints:<br />
 0 <= Number of nodes <= 10^5<br /> 
 0 <= Data of a node <= 10^5
 
-**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day106(Spiral_level_order).cpp)
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day103(Spiral_level_order).cpp)
+
+## Day 104
+Given a Binary Tree. Find the Zig-Zag Level Order Traversal of the Binary Tree.<br /> 
+https://www.geeksforgeeks.org/zigzag-tree-traversal/
+
+Expected Time Complexity: O(N).<br /> 
+Expected Auxiliary Space: O(N).
+
+Constraints:<br /> 
+1 <= N <= 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day104(Zigzag_traversal).cpp)
+
 
