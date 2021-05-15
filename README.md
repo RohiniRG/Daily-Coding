@@ -2383,3 +2383,15 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day102(Sum_tree).cpp)
 
 ## Day 103
+Write a function to print spiral order traversal of a tree. <br /> 
+https://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/
+
+Expected Time Complexity: O(N).<br /> 
+Expected Auxiliary Space: O(N).
+
+Constraints:<br /> 
+0 <= Number of nodes <= 10^5<br /> 
+0 <= Data of a node <= 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day106(Spiral_level_order).cpp)
+
