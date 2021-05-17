@@ -2408,3 +2408,5 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day104(Zigzag_traversal).cpp)
 
 ## Day 104
+
+## Day 105
