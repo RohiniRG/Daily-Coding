@@ -2436,3 +2436,16 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day106(Identical_BT).cpp)
 
+## Day 107
+Given a binary tree and an integer S, check whether there is root to leaf path with its sum as S.<br />
+https://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(height of tree)
+
+Constraints:<br />
+1 ≤ N ≤ 10^4<br />
+1 ≤ S ≤ 10^6
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day107(Root_sum_path).cpp)
+
