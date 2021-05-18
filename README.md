@@ -2407,6 +2407,20 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day104(Zigzag_traversal).cpp)
 
-## Day 104
-
 ## Day 105
+Given a Binary Tree with all unique values and two nodes value n1 and n2. 
+The task is to find the lowest common ancestor of the given two nodes. 
+We may assume that either both n1 and n2 are present in the tree or none of them is present. <br /> 
+https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
+
+Expected Time Complexity: O(N).<br /> 
+Expected Auxiliary Space: O(H).<br /> 
+Note: H is the height of the tree.
+
+Constraints:<br /> 
+1 <= Number of nodes <= 10^5<br /> 
+1 <= Data of a node <= 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day105(Lca).cpp)
+
+## Day 106
