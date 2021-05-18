@@ -2424,3 +2424,15 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day105(Lca).cpp)
 
 ## Day 106
+Two trees are identical when they have same data and arrangement of data is also same.<br />
+https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/
+
+Expected Time Complexity: O(N).<br />
+Expected Auxiliary Space: O(Height of the Tree).
+
+Constraints:<br />
+1 <= Number of nodes <= 10^5<br />
+1 <= Data of a node <= 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day106(Identical_BT).cpp)
+
