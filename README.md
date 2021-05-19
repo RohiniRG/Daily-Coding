@@ -2449,3 +2449,15 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day107(Root_sum_path).cpp)
 
+## Day 108
+Given a Binary Tree, find vertical sum of the nodes that are in same vertical line. Print all sums through different vertical lines starting from left-most vertical line to right-most vertical line.<br />
+https://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/
+
+Expected Time Complexity: O(N).<br />
+Expected Auxiliary Space: O(N).
+
+Constraints:<br />
+1<=Number of nodes<=1000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day108(Vertical_sum).cpp)
+
