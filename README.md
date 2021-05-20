@@ -2461,3 +2461,17 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day108(Vertical_sum).cpp)
 
+## Day 109
+Given a binary tree of size  N, a node and a positive integer k., Your task is to complete the function kthAncestor(), the function should return the kth ancestor of the given node in the binary tree. If there does not exist any such ancestor then return -1.<br />
+https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(N)
+
+Constraints:<br />
+1<=N<=10^4<br />
+1<= K <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day109(Kth_ancestor).cpp)
+
+
