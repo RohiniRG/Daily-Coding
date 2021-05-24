@@ -2475,3 +2475,33 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day109(Kth_ancestor).cpp)
 
 ## Day 110
+Write a function to detect if two trees are isomorphic. Two trees are called isomorphic if one of them can be obtained from other by a series of flips, i.e. by swapping left and right children of a number of nodes. Any number of nodes at any level can have their children swapped. Two empty trees are isomorphic.<br />
+https://www.geeksforgeeks.org/tree-isomorphism-problem/
+
+Expected Time Complexity: O(min(M, N)) where M and N are the sizes of the two trees. <br />
+Expected Auxiliary Space: O(min(H1, H2)) where H1 and H2 are the heights of the two trees. 
+
+Constraints: <br />
+1<=Number of nodes<=10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day110(Isomorphism).cpp)
+
+## Day 111
+Given a binary tree, write a function that returns true if the tree satisfies below property.
+For every node, data value must be equal to sum of data values in left and right children. Consider data value as 0 for NULL children. 
+https://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/
+
+Expected Time Complexiy: O(N).
+Expected Auxiliary Space: O(Height of the Tree).
+
+Constraints:
+1 <= N <= 10^5
+1 <= Data on nodes <= 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day110(Sum_prop).cpp)
+
+
+
+
+
+
