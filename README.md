@@ -2488,14 +2488,14 @@ Constraints: <br />
 
 ## Day 111
 Given a binary tree, write a function that returns true if the tree satisfies below property.
-For every node, data value must be equal to sum of data values in left and right children. Consider data value as 0 for NULL children. 
+For every node, data value must be equal to sum of data values in left and right children. Consider data value as 0 for NULL children. <br />
 https://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/
 
-Expected Time Complexiy: O(N).
+Expected Time Complexiy: O(N).<br />
 Expected Auxiliary Space: O(Height of the Tree).
 
-Constraints:
-1 <= N <= 10^5
+Constraints:<br />
+1 <= N <= 10^5<br />
 1 <= Data on nodes <= 10^5
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day110(Sum_prop).cpp)
