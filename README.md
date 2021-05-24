@@ -2498,10 +2498,13 @@ Constraints:<br />
 1 <= N <= 10^5<br />
 1 <= Data on nodes <= 10^5
 
-**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day110(Sum_prop).cpp)
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day111(Sum_prop).cpp)
 
+## Day 112:
+Given a binary tree and a key, insert the key into the binary tree at the first position available in level order.<br />
+https://www.geeksforgeeks.org/insertion-in-a-binary-tree-in-level-order/
 
-
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day112(Insertion_BT).cpp)
 
 
 
