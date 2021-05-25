@@ -2506,5 +2506,5 @@ https://www.geeksforgeeks.org/insertion-in-a-binary-tree-in-level-order/
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day112(Insertion_BT).cpp)
 
-
+## Day 112
 
