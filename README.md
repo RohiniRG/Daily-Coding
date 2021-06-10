@@ -2531,3 +2531,14 @@ Constraints:
 1 ≤ Data of a node ≤ 10^5
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day115(Level_order).cpp)
+
+Given a binary tree of size N, find its reverse level order traversal. 
+ie- the traversal must begin from the last level.<br />
+
+Expected Time Complexity: O(N)
+Expected Auxiliary Space: O(N)
+
+Constraints:
+1 ≤ N ≤ 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day116(Rev_level_order).cpp)
