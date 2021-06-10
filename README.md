@@ -2506,8 +2506,28 @@ https://www.geeksforgeeks.org/insertion-in-a-binary-tree-in-level-order/
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day112(Insertion_BT).cpp)
 
-## Day 112
-
 ## Day 113
+Given a binary tree, delete a node from it by making sure that tree shrinks from the bottom 
+(i.e. the deleted node is replaced by bottom most and rightmost node). 
+This is different from BST deletion. <br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day113(Deletion_BT).cpp)
 
 ## Day 114
+Display preorder, postorder, inorder traversals of Binary Tree. (Recursive) <br />
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day114(Recursive_traversals).cpp)
+
+## Day 115
+
+Given a binary tree, find its level order traversal.
+Level order traversal of a tree is breadth-first traversal for the tree.<br />
+
+Expected Time Complexity: O(N)
+Expected Auxiliary Space: O(N)
+
+Constraints:
+1 ≤ Number of nodes ≤ 10^5
+1 ≤ Data of a node ≤ 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day115(Level_order).cpp)
