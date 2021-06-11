@@ -2520,7 +2520,7 @@ Display preorder, postorder, inorder traversals of Binary Tree. (Recursive) <br 
 
 ## Day 115
 
-Given a binary tree, find its level order traversal.
+1. Given a binary tree, find its level order traversal.
 Level order traversal of a tree is breadth-first traversal for the tree.<br />
 
 Expected Time Complexity: O(N)
@@ -2532,13 +2532,43 @@ Constraints:
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day115(Level_order).cpp)
 
-Given a binary tree of size N, find its reverse level order traversal. 
+2. Given a binary tree of size N, find its reverse level order traversal. 
 ie- the traversal must begin from the last level.<br />
 
-Expected Time Complexity: O(N)
+Expected Time Complexity: O(N)<br />
 Expected Auxiliary Space: O(N)
 
-Constraints:
+Constraints:<br />
 1 ≤ N ≤ 10^4
 
-**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day116(Rev_level_order).cpp)
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day115(Rev_level_order).cpp)
+
+## Day 116
+
+1. Given a binary tree, find its height.<br />
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(N)
+
+Constraints:<br />
+1 <= Number of nodes <= 10^5<br />
+1 <= Data of a node <= 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day116(Height_BT).cpp)
+
+2. Given a Binary Tree, find diameter of it.
+The diameter of a tree is the number of nodes on the longest path between two end nodes in the tree. The diagram below shows two trees each with diameter nine, the leaves that form the ends of a longest path are shaded (note that there is more than one path in each tree of length nine, but no path longer than nine nodes).
+
+
+Expected Time Complexity: O(N).<br />
+Expected Auxiliary Space: O(Height of the Tree).
+
+Constraints:<br />
+1 <= Number of nodes <= 10000<br />
+1 <= Data of a node <= 1000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day117(Diameter_BT).cpp)
+
+3. Given a binary tree, the task is to create a new binary tree which is a mirror image of the given binary tree.
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day117(Mirror_BT).cpp)
