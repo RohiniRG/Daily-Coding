@@ -2571,3 +2571,15 @@ The diameter of a tree is the number of nodes on the longest path between two en
 3. Given a binary tree, the task is to create a new binary tree which is a mirror image of the given binary tree.
 
    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day117(Mirror_BT).cpp)
+
+## Day 117
+
+1. Inorder traversal recursive and iterative <br />
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day117(Inorder_BT).cpp)
+
+2. Preorder traversal recursive and iterative <br />
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day117(Preorder_BT).cpp)
+
+3. Postorder traversal recursive and iterative <br />
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day117(Postorder_BT).cpp)
+
