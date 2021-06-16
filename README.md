@@ -2583,3 +2583,10 @@ The diameter of a tree is the number of nodes on the longest path between two en
 3. Postorder traversal recursive and iterative <br />
    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day117(Postorder_BT).cpp)
 
+## Day 118
+
+1. Left view of Binary Tree <br />
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day118(Leftview_BT).cpp)
+   
+2. Right view of Binary Tree <br />
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day118(Rightview_BT).cpp)
