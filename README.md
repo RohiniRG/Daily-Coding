@@ -2590,3 +2590,15 @@ The diameter of a tree is the number of nodes on the longest path between two en
    
 2. Right view of Binary Tree <br />
    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day118(Rightview_BT).cpp)
+
+## Day 119
+
+1. Top view of Binary Tree  <br />
+   Expected Time Complexity: O(N)<br />
+   Expected Auxiliary Space: O(N)<br />
+
+   Constraints:<br />
+   1 ≤ N ≤ 10^5<br />
+   1 ≤ Node Data ≤ 10^5
+   
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day119(Topview_BT).cpp)
