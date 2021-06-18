@@ -2625,7 +2625,7 @@ The diameter of a tree is the number of nodes on the longest path between two en
    
    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day120(Balanced_BT).cpp)
    
-2. ZigZag Tree Traversal 
+2. ZigZag Tree Traversal <br />
    Expected Time Complexity: O(N)<br />
    Expected Auxiliary Space: O(N)
 
