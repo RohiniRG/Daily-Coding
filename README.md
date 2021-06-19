@@ -2634,3 +2634,13 @@ The diameter of a tree is the number of nodes on the longest path between two en
    
    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day120(Zigzag_BT).cpp)
 
+## Day 121
+Given a Binary Tree, print all diagonal elements in a binary tree belonging to the same line.<br />
+
+Time Complexity : O(N)<br />
+Space Complexity : O(N)  
+
+Constraints:<br />
+1 <= N <= 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day121(Diagonal_BT).cpp)
