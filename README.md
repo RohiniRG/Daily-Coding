@@ -2646,7 +2646,7 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day121(Diagonal_BT).cpp)
 
 ## Day 122
-Given a Binary Tree, find its Boundary Traversal. 
+Given a Binary Tree, find its Boundary Traversal.
 
 Expected Time Complexity: O(N). <br />
 Expected Auxiliary Space: O(Height of the Tree).
@@ -2656,3 +2656,5 @@ Constraints:<br />
 1 ≤ Data of a node ≤ 10^5
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day122(Boundary_BT).cpp)
+
+## Day 123
