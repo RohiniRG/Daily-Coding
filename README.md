@@ -2658,3 +2658,8 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day122(Boundary_BT).cpp)
 
 ## Day 123
+Construct a binary tree from a string consisting of parenthesis and integers. The whole input represents a binary tree. It contains an integer followed by zero, one or two pairs of parenthesis. The integer represents the root’s value and a pair of parenthesis contains a child binary tree with the same structure. Always start to construct the left child node of the parent first if it exists.
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day123(BT_from_brackets).cpp)
+
+## Day 124
