@@ -2663,3 +2663,14 @@ Construct a binary tree from a string consisting of parenthesis and integers. Th
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day123(BT_from_brackets).cpp)
 
 ## Day 124
+Given a Binary Tree (BT), convert it to a Doubly Linked List(DLL) In-Place. The left and right pointers in nodes are to be used as previous and next pointers respectively in converted DLL. The order of nodes in DLL must be same as Inorder of the given Binary Tree. The first node of Inorder traversal (leftmost node in BT) must be the head node of the DLL.
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(H)<br />
+Note: H is the height of the tree and this space is used implicitly for recursion stack.
+
+Constraints:<br />
+1 <= Number of nodes <= 10^5<br />
+1 <= Data of a node <= 10^5
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day124(BT_dll).cpp)
