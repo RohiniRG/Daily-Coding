@@ -2674,3 +2674,14 @@ Constraints:<br />
 1 <= Data of a node <= 10^5
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day124(BT_dll).cpp)
+
+## Day 125
+Given a Binary Tree of size N , where each node can have positive or negative values. Convert this to a tree where each node contains the sum of the left and right sub trees of the original tree. The values of leaf nodes are changed to 0.<br />
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(height of tree)
+
+Constraints:<br />
+1 ≤ N ≤ 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day125(BT_sumtree).cpp)
