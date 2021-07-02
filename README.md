@@ -2697,3 +2697,8 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day126(Bt_in_pre).cpp)
 
+## Day 127
+Find the minimum number of swap required to convert it into Binary Search Tree.
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day127(Min_swaps_bst).cpp)
+
