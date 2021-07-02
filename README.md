@@ -2685,3 +2685,15 @@ Constraints:<br />
 1 ≤ N ≤ 10^4
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day125(BT_sumtree).cpp)
+
+## Day 126
+Given 2 Arrays of Inorder and preorder traversal. Construct a tree and print the Postorder traversal. 
+
+Expected Time Complexity: O(N*N)<br />
+Expected Auxiliary Space: O(N)
+
+Constraints:<br />
+1<=Number of Nodes<=1000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day126(Bt_in_pre).cpp)
+
