@@ -2702,3 +2702,14 @@ Find the minimum number of swap required to convert it into Binary Search Tree.
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day127(Min_swaps_bst).cpp)
 
+## Day 128
+Given a Binary Tree. Return 1 if, for every node X in the tree other than the leaves, its value is equal to the sum of its left subtree's value and its right subtree's value. Else return 0.
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(Height of the Tree)
+
+Constraints:<br />
+1 ≤ number of nodes ≤ 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day128(Sum_tree).cpp)
+
