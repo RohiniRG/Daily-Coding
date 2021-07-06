@@ -2713,3 +2713,7 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day128(Sum_tree).cpp)
 
+## Day 129
+Binary Search Tree (Search and Insertion)
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day129(BST).cpp)
