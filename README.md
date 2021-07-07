@@ -2714,6 +2714,17 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day128(Sum_tree).cpp)
 
 ## Day 129
-Binary Search Tree (Search and Insertion)
+1. Binary Search Tree (Search and Insertion)
 
-**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day129(BST).cpp)
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day129(BST).cpp)
+
+2. Given an input stream of A of n characters consisting only of lower case alphabets. The task is to find the first non repeating character, each time a character is inserted to the stream. If there is no such character then append '#' to the answer.
+
+   Expected Time Complexity: O(26 * n)<br />
+   Expected Space Complexity: O(26)
+ 
+   Constraints:<br />
+   1 <= n <= 10^5
+
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day129().cpp)
+
