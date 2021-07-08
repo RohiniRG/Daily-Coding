@@ -2726,5 +2726,19 @@ Constraints:<br />
    Constraints:<br />
    1 <= n <= 10^5
 
-   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day129().cpp)
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day129(First_non_repeating).cpp)
 
+## Day 130
+1. <b>N meetings in one room </b> <br />
+   There is one meeting room in a firm. There are N meetings in the form of (S[i], F[i]) where S[i] is start time of meeting i and F[i] is finish time of meeting. What is the maximum number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time? Also note start time of one chosen meeting can't be equal to the end time of the other chosen meeting.
+   
+   Expected Time Complexity : O(N*LogN) <br />
+   Expected Auxilliary Space : O(N)
+
+   Constraints:<br />
+   1 ≤ N ≤ 10^5 <br />
+   0 ≤ S[i] < F[i] ≤ 10^5
+   
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day123(Maximum_meetings).cpp)
+
+2. 
