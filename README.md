@@ -2739,6 +2739,18 @@ Constraints:<br />
    1 ≤ N ≤ 10^5 <br />
    0 ≤ S[i] < F[i] ≤ 10^5
    
-   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day123(Maximum_meetings).cpp)
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day130(Maximum_meetings).cpp)
 
-2. 
+2. <b>Isomorphic Strings </b> <br />
+   Given two strings 'str1' and 'str2', check if these two strings are isomorphic to each other.
+   
+   Expected Time Complexity: O(|str1|+|str2|).
+   Expected Auxiliary Space: O(Number of different characters).
+   Note: |s| represents the length of string s.
+
+   Constraints:
+   1 <= |str1|, |str2| <= 2*10^4
+   
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day130(Isomorphic_str).cpp)
+   
+   
