@@ -2744,13 +2744,36 @@ Constraints:<br />
 2. <b>Isomorphic Strings </b> <br />
    Given two strings 'str1' and 'str2', check if these two strings are isomorphic to each other.
    
-   Expected Time Complexity: O(|str1|+|str2|).
-   Expected Auxiliary Space: O(Number of different characters).
+   Expected Time Complexity: O(|str1|+|str2|).<br />
+   Expected Auxiliary Space: O(Number of different characters).<br />
    Note: |s| represents the length of string s.
 
-   Constraints:
+   Constraints:<br />
    1 <= |str1|, |str2| <= 2*10^4
    
-   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day130(Isomorphic_str).cpp)
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day130(Isomorphic_str).py)
    
+## Day 131:
+1. <b>Powers of 2 </b> <br />
+   Given a non-negative integer N. The task is to check if N is a power of 2. More formally, check if N can be expressed as 2x for some x.
    
+   Expected Time Complexity: O(log N).<br />
+   Expected Auxiliary Space: O(1).
+
+   Constraints:<br />
+   0 ≤ N ≤ 10^18
+
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day131(2s_Powers).py)
+
+2. <b>Powers of 2 </b> <br /> 
+   Consider a rat placed at (0, 0) in a square matrix of order N * N. It has to reach the destination at (N - 1, N - 1). Find all possible paths that the rat can take to reach from source to destination. The directions in which the rat can move are 'U'(up), 'D'(down), 'L' (left), 'R' (right). Value 0 at a cell in the matrix represents that it is blocked and rat cannot move to it while value 1 at a cell in the matrix represents that rat can be travel through it.
+   
+   Expected Time Complexity: O((N^2)^4).<br /> 
+   Expected Auxiliary Space: O(L * X), L = length of the path, X = number of paths.
+
+   Constraints:<br /> 
+   2 ≤ N ≤ 5<br /> 
+   0 ≤ m[i][j] ≤ 1
+   
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day131(Pat_in_maze).py)
+
