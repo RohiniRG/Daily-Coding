@@ -2777,3 +2777,24 @@ Constraints:<br />
    
    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day131(Pat_in_maze).py)
 
+## Day 132:
+1. <b>The celebrity problem </b> <br /> 
+   A celebrity is a person who is known to all but does not know anyone at a party. If you go to a party of N people, find if there is a celebrity in the party or not.
+A square NxN matrix M[][] is used to represent people at the party such that if an element of row i and column j  is set to 1 it means ith person knows jth person. Here M[i][i] will always be 0.
+
+   Expected Time Complexity: O(N)<br /> 
+   Expected Auxiliary Space: O(1)
+
+   Constraints:<br /> 
+   2 <= N <= 3000<br /> 
+   0 <= M[][] <= 1
+   
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day132(Celebrity_prob).py)
+   
+2. <b>Aggressive cows </b> <br /> 
+   Farmer John has built a new long barn, with N (2 <= N <= 100,000) stalls. The stalls are located along a straight line at positions x1,...,xN (0 <= xi <= 1,000,000,000).
+
+His C (2 <= C <= N) cows don't like this barn layout and become aggressive towards each other once put into a stall. To prevent the cows from hurting each other, FJ wants to assign the cows to the stalls, such that the minimum distance between any two of them is as large as possible. What is the largest minimum distance?
+
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day132(Aggressive_cows).py)
+
