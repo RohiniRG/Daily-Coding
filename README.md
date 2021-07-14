@@ -2802,11 +2802,11 @@ His C (2 <= C <= N) cows don't like this barn layout and become aggressive towar
 <b>Kadane's algorithm</b> <br /> 
 Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
 
-Expected Time Complexity: O(N)
+Expected Time Complexity: O(N)<br />
 Expected Auxiliary Space: O(1)
 
-Constraints:
-1 ≤ N ≤ 10^6
+Constraints:<br />
+1 ≤ N ≤ 10^6<br />
 -107 ≤ A[i] ≤ 10^7
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day133(Kadanes_algo).py)
