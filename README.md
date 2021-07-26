@@ -2811,4 +2811,14 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day133(Kadanes_algo).py)
 
+## Day 134:
+1. <b>Implementing Max heap:</b><br />
+   Given an array of N elements. The task is to build a Binary Heap from the given array. The heap can be either Max Heap or Min Heap.<br />
+   
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day134(Implementing_maxheap).cpp)
+
+2. <b>Heap sort:</b><br />
+   Heap sort is a comparison-based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the minimum element and place the minimum element at the beginning. We repeat the same process for the remaining elements.<br />
+   
+    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day134(Heapsort).cpp)
 
