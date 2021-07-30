@@ -2828,3 +2828,9 @@ Constraints:<br />
    
 2. <b>BFS:</b><br />
    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day135(BFS).cpp)
+
+## Day 135:
+<b>Job Sequencing Problem </b><br />
+Given an array of jobs where every job has a deadline and associated profit if the job is finished before the deadline. It is also given that every job takes a single unit of time, so the minimum possible deadline for any job is 1. How to maximize total profit if only one job can be scheduled at a time.
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day136(Job_seq).py)
