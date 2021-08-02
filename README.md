@@ -2829,8 +2829,37 @@ Constraints:<br />
 2. <b>BFS:</b><br />
    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day135(BFS).cpp)
 
-## Day 135:
+## Day 136:
 <b>Job Sequencing Problem </b><br />
 Given an array of jobs where every job has a deadline and associated profit if the job is finished before the deadline. It is also given that every job takes a single unit of time, so the minimum possible deadline for any job is 1. How to maximize total profit if only one job can be scheduled at a time.
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day136(Job_seq).py)
+
+## Day 137:
+1. <b>Huffman coding </b><br />
+   Given a string S of distinct character of size N and their corresponding frequency f[ ] i.e. character S[i] has f[i] frequency. Your task is to build the Huffman tree print all the huffman codes in preorder traversal of the tree.<br />
+   
+   Expected Time complexity: O(N * LogN) <br />
+   Expected Space complexity: O(N) 
+
+   Constraints:<br />
+   1 ≤ N ≤ 26
+
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day137(Huffman).py)
+
+2. <b>Chocolate Distribution Problem </b><br />   
+   Given an array A[ ] of positive integers of size N, where each value represents the number of chocolates in a packet. Each packet can have a variable number of chocolates. There are M students, the task is to distribute chocolate packets among M students such that : <br />
+   1. Each student gets exactly one packet. <br />
+   2. The difference between maximum number of chocolates given to a student and minimum number of chocolates given to a student is minimum.
+   
+   Expected Time Complexity: O(N*Log(N))<br />
+   Expected Auxiliary Space: O(1)
+
+   Constraints:<br />
+   1 ≤ T ≤ 100<br />
+   1 ≤ N ≤ 10^5<br />
+   1 ≤ Ai ≤ 10^9<br />
+   1 ≤ M ≤ N
+
+   **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day137(Chocolate_dist).py)
+
