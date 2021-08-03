@@ -2863,3 +2863,29 @@ Given an array of jobs where every job has a deadline and associated profit if t
 
    **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day137(Chocolate_dist).py)
 
+## Day 138:
+<b>Number of 1 Bits</b><br /> 
+Given a positive integer N, print count of set bits in it.
+
+Expected Time Complexity: O(LogN)<br />
+Expected Auxiliary Space: O(1)
+
+Constraints:<br />
+1 ≤ N ≤ 10^9
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day138(Count_setbits).cpp)
+
+## Day 139:
+<b>Non Repeating Numbers </b><br /> 
+Given an array A containing 2*N+2 positive numbers, out of which 2*N numbers exist in pairs whereas the other two number occur exactly once and are distinct. Find the other two numbers.
+
+Expected Time Complexity: O(N)<br /> 
+Expected Space Complexity: O(1)
+
+Constraints:<br /> 
+1 <= length of array <= 10^6 <br /> 
+1 <= Elements in array <= 5 * 10^6
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day139(Non-repeating).py)
+
+
