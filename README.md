@@ -2888,4 +2888,10 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day139(Non-repeating).py)
 
+## Day 140:
+<b>Dijkstra's Algorithm </b><br /> 
+Given a graph and a source vertex in the graph, find the shortest paths from the source to all vertices in the given graph.
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day140(Dijkstra).cpp)
+
 
