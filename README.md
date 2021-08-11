@@ -2894,4 +2894,9 @@ Given a graph and a source vertex in the graph, find the shortest paths from the
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day140(Dijkstra).cpp)
 
+## Day 141:
+<b>Reverse a linked list </b><br /> 
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day141(Reverse_LL).cpp)
+
 
