@@ -2899,4 +2899,16 @@ Given a graph and a source vertex in the graph, find the shortest paths from the
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day141(Reverse_LL).cpp)
 
+## Day 142:
+<b>Median in a row-wise sorted Matrix </b> <br />
+Given a row wise sorted matrix of size RxC where R and C are always odd, find the median of the matrix.
+
+Expected Time Complexity: O(32 * R * log(C))<br />
+Expected Auxiliary Space: O(1)
+
+Constraints:<br />
+1<= R,C <=150<br />
+1<= matrix[i][j] <=2000
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day142(Median_matrix).cpp)
 
