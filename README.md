@@ -2912,3 +2912,17 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day142(Median_matrix).cpp)
 
+## Day 143:
+<b>Spirally traversing a matrix </b> <br />
+Given a matrix of size r*c. Traverse the matrix in spiral form.
+
+
+Expected Time Complexity: O(r*c)<br />
+Expected Auxiliary Space: O(r*c), for returning the answer only.
+
+Constraints:<br />
+1 <= r, c <= 100<br />
+0 <= matrixi <= 100
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day143(Spiral_matrix).py)
+
