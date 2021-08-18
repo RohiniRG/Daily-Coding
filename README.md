@@ -2926,3 +2926,17 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day143(Spiral_matrix).py)
 
+## Day 144:
+<b>Segregate even and odd nodes in a Linked List </b> <br />
+Given a Linked List of integers, write a function to modify the linked list such that all even numbers appear before all the odd numbers in the modified linked list. Also, keep the order of even and odd numbers same.
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(N)
+
+Constraints:<br />
+1 ≤ N ≤ 100<br />
+1 ≤ arr[i] ≤ 10000 
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day144(Even_Odd_LL).cpp)
+
+
