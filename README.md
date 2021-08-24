@@ -2940,3 +2940,8 @@ Constraints:<br />
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day144(Even_Odd_LL).cpp)
 
 
+## Day 145:
+<b>Sliding Window Maximum (Maximum of all subarrays of size k) </b> <br />
+Given an array and an integer K, find the maximum for each and every contiguous subarray of size k.
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day145(Max_subarray).cpp)
