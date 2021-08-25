@@ -2945,3 +2945,16 @@ Constraints:<br />
 Given an array and an integer K, find the maximum for each and every contiguous subarray of size k.
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day145(Max_subarray).cpp)
+
+## Day 146:
+<b>Segregate even and odd nodes in a Linked List </b> <br />
+Stickler the thief wants to loot money from a society having n houses in a single line. He is a weird person and follows a certain rule when looting the houses. According to the rule, he will never loot two consecutive houses. At the same time, he wants to maximize the amount he loots. The thief knows which house has what amount of money but is unable to come up with an optimal looting strategy. He asks for your help to find the maximum money he can get if he strictly follows the rule. Each house has a[i] amount of money present in it.
+
+Expected Time Complexity: O(N)<br />
+Expected Auxiliary Space: O(N)
+
+Constraints:<br />
+1 ≤ N ≤ 10000<br />
+1 ≤ arr[i] ≤ 10000 
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day146(Max_sum_thief).py)
