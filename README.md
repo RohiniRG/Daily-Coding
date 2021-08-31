@@ -2958,3 +2958,16 @@ Constraints:<br />
 1 ≤ arr[i] ≤ 10000 
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day146(Max_sum_thief).py)
+
+## Day 147:
+<b>Merge K sorted linked lists  </b> <br />
+Given K sorted linked lists of different sizes. The task is to merge them in such a way that after merging they will be a single sorted linked list.
+
+Expected Time Complexity: O(nk Logk) <br />
+Expected Auxiliary Space: O(k)
+
+Constraints:<br />
+1 <= K <= 10^3
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day147(Merge_kLLs).cpp)
+
