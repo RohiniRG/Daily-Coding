@@ -2971,3 +2971,16 @@ Constraints:<br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day147(Merge_kLLs).cpp)
 
+## Day 148:
+<b>Kth largest element in BST </b> <br />
+Given a Binary search tree. Your task is to complete the function which will return the Kth largest element without doing any modification in Binary Search Tree.
+
+Expected Time Complexity: O(H + K) <br />
+Expected Auxiliary Space: O(H)
+
+Constraints: <br />
+1 <= N <= 1000 <br />
+1 <= K <= N
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day148(KthLargestBST).cpp)
+
