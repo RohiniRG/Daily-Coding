@@ -2984,3 +2984,14 @@ Constraints: <br />
 
 **Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day148(KthLargestBST).cpp)
 
+## Day 149:
+<b>DFS of Graph </b> <br />
+Given a connected undirected graph. Perform a Depth First Traversal of the graph.
+
+Expected Time Complexity: O(V + E)<br />
+Expected Auxiliary Space: O(V)
+
+Constraints:
+1 ≤ V, E ≤ 10^4
+
+**Solution:** [here](https://github.com/RohiniRG/Daily-Coding/blob/main/Day149(DFS_graph).cpp)
